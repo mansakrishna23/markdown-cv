@@ -1,9 +1,8 @@
 # Mansa Krishna
 
-_An undergraduate student pursuing a bachelors degree in Applied Mathematics with a specialization in Computing at the University of California, Los Angeles(UCLA)._ <br>
-_Currently an undergraduate researcher with the Pablo Saide Research Group at UCLA and intends to pursue graduate studies in the Earth Sciences. Her primary research interests include applications of Machine Learning and Numerical Methods to the Earth Sciences_
+_An undergraduate student pursuing a bachelors degree in Applied Mathematics with a specialization in Computing at the University of California, Los Angeles(UCLA).  Currently an undergraduate researcher with the Pablo Saide Research Group at UCLA and intends to pursue graduate studies in the Earth Sciences. Her primary research interests include applications of Machine Learning and Numerical Methods to the Earth Sciences_
 
-[Email](mailto:mansakrishna23@gmail.com) | [LinkedIn](https://www.linkedin.com/in/mansa-krishna-96682419b) | [GitHub](https://github.com/mansakrishna23)
+[Email](mailto:mansakrishna23@gmail.com) / [LinkedIn](https://www.linkedin.com/in/mansa-krishna-96682419b) / [GitHub](https://github.com/mansakrishna23)
 
 ## Education
 
@@ -13,7 +12,7 @@ _**History Minor**_
 - Dean's Honors List _(Winter Quarter 2021)_
 - Dean's Honors List _(Spring Quarter 2021)_
 - **Relevant Coursework**
-  - Mathematics and Computing
+  - Mathematics and Computing <br>
   | Machine Learning              | Optimization        | Algorithms                  | Python with Applications | 
   | Calculus of Several Variables | Linear Algebra      | Differential Equations      | Mathematical Modelling   |
   | Real Analysis                 | Discrete Structures | Introduction to Probability |                          |
@@ -61,9 +60,9 @@ _**Undergraduate Research Scholar**_ | _October 2020 - June 2021_ <br>
 _**Krishna, M.**, Saide, P., Ye, X., Turney, F., Hair, J., Fenn, M., & Shingler, T. Plume Injection Heights Estimated From Weather Radar Observations. **Manuscript in Preparation.**_
 
 **Articles**:<br>
-_When to Enroll in Each Class_, [Article Link](https://stack.dailybruin.com/2021/02/05/class-fill-ups-2/) <br>
-_Exploring UCLA's Journey to becoming a Hispanic-Serving Institution_, [Article Link](https://stack.dailybruin.com/2021/05/11/studentdemographic-hsis/) <br>
-_Hollywood in Westwood: Exploring Filmography on the UCLA Campus_, [Article Link](https://stack.dailybruin.com/2021/06/09/uclafilming-locations/)
+_When to Enroll in Each Class_, [Link](https://stack.dailybruin.com/2021/02/05/class-fill-ups-2/) <br>
+_Exploring UCLA's Journey to becoming a Hispanic-Serving Institution_, [Link](https://stack.dailybruin.com/2021/05/11/studentdemographic-hsis/) <br>
+_Hollywood in Westwood: Exploring Filmography on the UCLA Campus_, [Link](https://stack.dailybruin.com/2021/06/09/uclafilming-locations/)
 
 ## Presentations
 **Meteorology and Climate - Modelling for Air Quality (MAC-MAQ) Conference, University of California - Davis**<br>
@@ -93,11 +92,13 @@ _**Data Science Intern**_ | _July 2021 - September 2021_ <br>
 **_Learning Assistant for Upper-Division Linear Algebra (Math 115A)_** | _Winter Quarter 2021_ <br>
 - Worked with Professor Rose Morris-Wright, teaching assistants, and other learning assistants to foster collaborative learning and discussion
 - Core topics: Techniques of proof; abstract vector spaces; linear transformations; matrices and determinants; inner product spaces; eigenvector theory
-<br>**_Head Pedagogy Learning Assistant for Differential Equations (Math 33B)_** | _Spring Quarter 2020_ <br>
+
+**_Head Pedagogy Learning Assistant for Differential Equations (Math 33B)_** | _Spring Quarter 2020_ <br>
 - Worked with Professor Allen Gehret, teaching assistants, and other learning assistants to foster collaborative learning and discussion
 - Mentored new learning assistants in pedagogy techniques
 - Core topics: First-order, linear differential equations; second-order, linear differential equations with constant coefficients; power series solutions; linear systems
-<br>**_Learning Assistant for Calculus of Several Variables (Math 32A)_** | _Winter Quarter 2020_ <br>
+
+**_Learning Assistant for Calculus of Several Variables (Math 32A)_** | _Winter Quarter 2020_ <br>
 - Worked with Professor Rolando de Santiago, teaching assistants, and other learning assistants to foster collaborative learning and discussion
 - Core topics: Intro to differential calculus of several variables; vector field theory
 
