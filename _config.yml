@@ -1,6 +1,4 @@
 theme: jekyll-theme-minimal
 title: Mansa Krishna
-author: Curriculum Vitae
-
-avatar: "/img/mansa.png"
-round-avatar: true
+description: Curriculum Vitae
+logo: /img/mansa.png
