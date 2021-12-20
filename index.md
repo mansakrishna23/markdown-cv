@@ -125,6 +125,6 @@ _August 2019 - September 2019_<br>
 - Utilized an Arakawa C staggered grid (spatial discretization) and Forward-Backward scheme (time discretization) to construct a simulation of shallow water equations
 
 **Introduction to Research in Atmospheric and Oceanic Sciences (A&O SCI 90) Project** <br>
-**_An analysis of the Increase in the Global Mean Land-Ocean Temperature Contrast_**<br>
+**_An Analysis of the Increase in the Global Mean Land-Ocean Temperature Contrast_**<br>
 [Project](https://drive.google.com/file/d/1MO9dGPT12zzM5KPEk6LlZSMF0C9-_VJw/view?usp=sharing) | _Winter Quarter 2021_ <br>
 - The mini research project attempted to determine whether the global mean land-ocean temperature contrast had increased within the last five years through statistical analysis of global temperature data.
