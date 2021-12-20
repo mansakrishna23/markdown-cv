@@ -14,8 +14,10 @@ _**History Minor**_
 - **Relevant Coursework**
   - Mathematics and Computing <br>
   | Machine Learning              | Optimization        | Algorithms                  | Python with Applications | 
+  |-------------------------------|---------------------|-----------------------------|--------------------------|
   | Calculus of Several Variables | Linear Algebra      | Differential Equations      | Mathematical Modelling   |
   | Real Analysis                 | Discrete Structures | Introduction to Probability |                          |
+  <br>
   - Physical Sciences
     - Physics for Scientists and Engineers: Mechanics
     - Physics for Scientists and Engineers: Oscillations, Waves, Electric and Magnetic Fields
@@ -26,23 +28,12 @@ _**History Minor**_
     - Introduction to Oceanography
 
 ## Skills
-- **Programming/Software**: 
-  - C++ (Object-Oriented Programming)
-  - Python (Object-Oriented Programming, TensorFlow, Keras, NumPy, Pandas, SciPy, Scikit-Learn, Matplotlib, Seaborn, OpenCV, sqlite3)
-  - SQL
-  - Git
-  - HTML, CSS
-  - Jekyll
-  - Linux
-- **Microsoft Office**:
-  - Word
-  - Excel
-  - PowerPoint
-  - Outlook
-- **Languages**:
-  - English _(Native)_
-  - Hindi _(Fluent)_
-  - Tamil _(Beginner, Spoken only)_
+- **Programming/Software**: <br>
+C++ (Object-Oriented Programming), Python (Object-Oriented Programming, TensorFlow, Keras, NumPy, Pandas, SciPy, Scikit-Learn, Matplotlib, Seaborn, OpenCV, sqlite3), SQL, Git, HTML, CSS, Jekyll, Linux
+- **Microsoft Office**:<br>
+Word, Excel, PowerPoint, Outlook
+- **Languages**:<br>
+English _(Native)_, Hindi _(Fluent)_, Tamil _(Beginner, Spoken only)_
 
 ## Research
 **Pablo Saide Research Group** | [Webpage](https://dept.atmos.ucla.edu/saide/home) <br>
@@ -89,37 +80,45 @@ _**Data Science Intern**_ | _July 2021 - September 2021_ <br>
 
 ## Teaching Experience
 **Learning Assistant Program, UCLA**<br>
-**_Learning Assistant for Upper-Division Linear Algebra (Math 115A)_** | _Winter Quarter 2021_ <br>
+**_Learning Assistant for Upper-Division Linear Algebra (Math 115A)_** <br>
+_Winter Quarter 2021_ <br>
 - Worked with Professor Rose Morris-Wright, teaching assistants, and other learning assistants to foster collaborative learning and discussion
 - Core topics: Techniques of proof; abstract vector spaces; linear transformations; matrices and determinants; inner product spaces; eigenvector theory
 
-**_Head Pedagogy Learning Assistant for Differential Equations (Math 33B)_** | _Spring Quarter 2020_ <br>
+**_Head Pedagogy Learning Assistant for Differential Equations (Math 33B)_** <br>
+_Spring Quarter 2020_ <br>
 - Worked with Professor Allen Gehret, teaching assistants, and other learning assistants to foster collaborative learning and discussion
 - Mentored new learning assistants in pedagogy techniques
 - Core topics: First-order, linear differential equations; second-order, linear differential equations with constant coefficients; power series solutions; linear systems
 
-**_Learning Assistant for Calculus of Several Variables (Math 32A)_** | _Winter Quarter 2020_ <br>
+**_Learning Assistant for Calculus of Several Variables (Math 32A)_** <br>
+_Winter Quarter 2020_ <br>
 - Worked with Professor Rolando de Santiago, teaching assistants, and other learning assistants to foster collaborative learning and discussion
 - Core topics: Intro to differential calculus of several variables; vector field theory
 
 **Math Vision Enrichment Centre, Singapore**<br>
-**_High School (IGCSE Extended and Additional) Mathematics Tutor_** | _August 2019 - September 2019_<br>
+**_High School (IGCSE Extended and Additional) Mathematics Tutor_** <br>
+_August 2019 - September 2019_<br>
 - Taught and clarified mathematical concepts to high school students in a one-on-one setting 
 - Created practice test papers for students
 
 ## University Coursework and Projects
 **Machine Learning (Math 156) Group Project**<br>
-**_Sentiment Analysis of Movie Reviews_** | [GitHub Repository](https://github.com/mansakrishna23/Sentiment-Analysis-Movie-Recommendations) | _Fall Quarter 2021_ <br>
+**_Sentiment Analysis of Movie Reviews_**<br> 
+[GitHub Repository](https://github.com/mansakrishna23/Sentiment-Analysis-Movie-Recommendations) | _Fall Quarter 2021_ <br>
 - Collaborated on a machine learning project that aims to classify textual data (i.e., movie reviews) according to their associated sentiment (i.e., positive or negative sentiments)
 
 **Python with Applications II (PIC 16B) Group Project**<br> 
-**_Sign Language Translation_** | [GitHub Repository](https://github.com/pfflanders/Sign-Language-Translation) | _Fall Quarter 2021_ <br>
+**_Sign Language Translation_** <br>
+[GitHub Repository](https://github.com/pfflanders/Sign-Language-Translation) | _Fall Quarter 2021_ <br>
 - Collaborating on a Machine Learning project that aims to provide a live translation of sign languages by creating a convolutional neural network (CNN).
 
 **Numerical Methods in Atmospheric Science (A&O SCI 180) Project**<br>
-**_Simulation of Shallow Water Equations in 2D_** | [Animation](https://drive.google.com/file/d/1mOhYPZfRITfdnCt9LzPdC-n1_TyjI52L/view?usp=sharing) | [Documentation](https://drive.google.com/file/d/1ccMgPQmCuT5gbkumC8jCoWViwEYuu-qg/view?usp=sharing) |  _Spring Quarter 2021_ <br>
+**_Simulation of Shallow Water Equations in 2D_**<br> 
+[Animation](https://drive.google.com/file/d/1mOhYPZfRITfdnCt9LzPdC-n1_TyjI52L/view?usp=sharing) | [Documentation](https://drive.google.com/file/d/1ccMgPQmCuT5gbkumC8jCoWViwEYuu-qg/view?usp=sharing) |  _Spring Quarter 2021_ <br>
 - Utilized an Arakawa C staggered grid (spatial discretization) and Forward-Backward scheme (time discretization) to construct a simulation of shallow water equations
 
 **Introduction to Research in Atmospheric and Oceanic Sciences (A&O SCI 90) Project** <br>
-**_An analysis of the Increase in the Global Mean Land-Ocean Temperature Contrast_** | [Project](https://drive.google.com/file/d/1MO9dGPT12zzM5KPEk6LlZSMF0C9-_VJw/view?usp=sharing) | _Winter Quarter 2021_ <br>
+**_An analysis of the Increase in the Global Mean Land-Ocean Temperature Contrast_**<br>
+[Project](https://drive.google.com/file/d/1MO9dGPT12zzM5KPEk6LlZSMF0C9-_VJw/view?usp=sharing) | _Winter Quarter 2021_ <br>
 - The mini research project attempted to determine whether the global mean land-ocean temperature contrast had increased within the last five years through statistical analysis of global temperature data.
