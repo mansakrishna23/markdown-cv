@@ -2,7 +2,7 @@
 
 _An undergraduate student pursuing a bachelors degree in Applied Mathematics with a specialization in Computing at the University of California, Los Angeles(UCLA).  Currently an undergraduate researcher with the Pablo Saide Research Group at UCLA and intends to pursue graduate studies in the Earth Sciences. Her primary research interests include applications of Machine Learning and Numerical Methods to the Earth Sciences_
 
-[Email](mailto:mansakrishna23@gmail.com) / [LinkedIn](https://www.linkedin.com/in/mansa-krishna-96682419b) / [GitHub](https://github.com/mansakrishna23)
+[Email](mailto:mansakrishna23@gmail.com) / [LinkedIn](https://www.linkedin.com/in/mansa-krishna-96682419b) / [GitHub](https://github.com/mansakrishna23) / [Blog](https://mansakrishna23.github.io/)
 
 ## Education
 
