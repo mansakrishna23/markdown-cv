@@ -13,11 +13,17 @@ _**History Minor**_
 - Dean's Honors List _(Spring Quarter 2021)_
 - **Relevant Coursework**
   - Mathematics and Computing <br>
-  | Machine Learning              | Optimization        | Algorithms                  | Python with Applications | 
-  |-------------------------------|---------------------|-----------------------------|--------------------------|
-  | Calculus of Several Variables | Linear Algebra      | Differential Equations      | Mathematical Modelling   |
-  | Real Analysis                 | Discrete Structures | Introduction to Probability |                          |
-  <br>
+    - Machine Learning
+    - Optimization
+    - Algorithms
+    - Python with Applications
+    - Calculus of Several Variables
+    - Linear Algebra
+    - Differential Equations
+    - Mathematical Modelling
+    - Real Analysis
+    - Discrete Structures
+    - Introduction to Probability
   - Physical Sciences
     - Physics for Scientists and Engineers: Mechanics
     - Physics for Scientists and Engineers: Oscillations, Waves, Electric and Magnetic Fields
@@ -46,7 +52,7 @@ _**Undergraduate Research Scholar**_ | _October 2020 - June 2021_ <br>
 - Worked on a group research project with Bonny Bentzin (Deputy Chief Sustainability Officer, Institute of the Environment and Sustainability, UCLA) and Dr. Rebecca Shipe (Department of Ecology and Evolutionary Biology, UCLA) as mentors
 - Investigated the feasibility of implementing a geothermal system for UCLA's North Campus' heating and cooling needs for the purpose of energy conservation
 
-## Publications
+### Publications
 **Research**:<br>
 _**Krishna, M.**, Saide, P., Ye, X., Turney, F., Hair, J., Fenn, M., & Shingler, T. Plume Injection Heights Estimated From Weather Radar Observations. **Manuscript in Preparation.**_
 
@@ -55,7 +61,7 @@ _When to Enroll in Each Class_, [Link](https://stack.dailybruin.com/2021/02/05/c
 _Exploring UCLA's Journey to becoming a Hispanic-Serving Institution_, [Link](https://stack.dailybruin.com/2021/05/11/studentdemographic-hsis/) <br>
 _Hollywood in Westwood: Exploring Filmography on the UCLA Campus_, [Link](https://stack.dailybruin.com/2021/06/09/uclafilming-locations/)
 
-## Presentations
+### Presentations
 **Meteorology and Climate - Modelling for Air Quality (MAC-MAQ) Conference, University of California - Davis**<br>
 _**Presenter**_ | [Abstract](https://macmaq.aqrc.ucdavis.edu/2021-program-content#Mansa_Krishna) | _September 2021_<br>
 - Presented research project (**_Title_**: Fire Plume Injection Heights Estimated From Doppler Weather Radar Observations) at the MAC-MAQ Conference as a Lightning Talk and [Poster Presentation](https://drive.google.com/file/d/1LP33CvY-9QxeG6uVAMulJmDngSBbXS1L/view?usp=sharing).
