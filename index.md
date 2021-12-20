@@ -1,5 +1,9 @@
 <!-- ![mansa.png](/img/mansa.png) -->
-# Mansa Krishna
+
+An undergraduate student pursuing Applied Mathematics with a Specialization in Computing at the University of California, Los Angeles (UCLA).
+
+Currently an undergraduate researcher with the Pablo Saide Research Group at UCLA and intend to pursue graduate studies in the Earth Sciences. My primary research interests include applications of Machine Learning and Numerical Methods to the Earth Sciences.
+
 
 [Email](mailto:mansakrishna23@gmail.com) / [LinkedIn](https://www.linkedin.com/in/mansa-krishna-96682419b) / [GitHub](https://github.com/mansakrishna23) / [Blog](https://mansakrishna23.github.io/)
 
