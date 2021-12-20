@@ -1,4 +1,5 @@
 <!-- ![mansa.png](/img/mansa.png) -->
+# Mansa Krishna
 
 [Email](mailto:mansakrishna23@gmail.com) / [LinkedIn](https://www.linkedin.com/in/mansa-krishna-96682419b) / [GitHub](https://github.com/mansakrishna23) / [Blog](https://mansakrishna23.github.io/)
 
