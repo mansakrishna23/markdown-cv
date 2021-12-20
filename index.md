@@ -58,8 +58,8 @@ _**Krishna, M.**, Saide, P., Ye, X., Turney, F., Hair, J., Fenn, M., & Shingler,
 
 **Articles**:<br>
 _When to Enroll in Each Class_, [Link](https://stack.dailybruin.com/2021/02/05/class-fill-ups-2/) <br>
-_Exploring UCLA's Journey to becoming a Hispanic-Serving Institution_, [Link](https://stack.dailybruin.com/2021/05/11/studentdemographic-hsis/) <br>
-_Hollywood in Westwood: Exploring Filmography on the UCLA Campus_, [Link](https://stack.dailybruin.com/2021/06/09/uclafilming-locations/)
+_Exploring UCLA's Journey to becoming a Hispanic-Serving Institution_, [Link](https://stack.dailybruin.com/2021/05/11/student-demographic-hsis/) <br>
+_Hollywood in Westwood: Exploring Filmography on the UCLA Campus_, [Link](https://stack.dailybruin.com/2021/06/09/ucla-filming-locations/)
 
 ### Presentations
 **Meteorology and Climate - Modelling for Air Quality (MAC-MAQ) Conference, University of California - Davis**<br>
