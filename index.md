@@ -71,9 +71,8 @@ _**Presenter**_ | [Abstract](https://macmaq.aqrc.ucdavis.edu/2021-program-conten
 - Presented research project (**_Title_**: Fire Plume Injection Heights Estimated From Doppler Weather Radar Observations) at the MAC-MAQ Conference as a Lightning Talk and [Poster Presentation](https://drive.google.com/file/d/1LP33CvY-9QxeG6uVAMulJmDngSBbXS1L/view?usp=sharing).
 
 **UCLA Undergraduate Research Week - Atmospheric and Environmental Science Showcase**<br>
-_**Presenter**_ | _May 2021_ <br>
+_**Presenter**_ | [Presentation Link](https://www.youtube.com/watch?v=ZgUGZrOEU7E) | _May 2021_ <br>
 - Presented year-long research project (**_Title_**: Plume Injection Heights Estimated From Weather Radar Observations) as part of the 2021 UCLA Undergraduate Research Week Atmospheric and Environmental Science Showcase
-- The presentation can be found at this [link](https://www.youtube.com/watch?v=ZgUGZrOEU7E)
 
 ## Work Experience
 **Anthem, Inc., United States**<br>
@@ -94,11 +93,11 @@ _**Data Science Intern**_ | _July 2021 - September 2021_ <br>
 **_Learning Assistant for Upper-Division Linear Algebra (Math 115A)_** | _Winter Quarter 2021_ <br>
 - Worked with Professor Rose Morris-Wright, teaching assistants, and other learning assistants to foster collaborative learning and discussion
 - Core topics: Techniques of proof; abstract vector spaces; linear transformations; matrices and determinants; inner product spaces; eigenvector theory
-**_Head Pedagogy Learning Assistant for Differential Equations (Math 33B)_** | _Spring Quarter 2020_ <br>
+<br>**_Head Pedagogy Learning Assistant for Differential Equations (Math 33B)_** | _Spring Quarter 2020_ <br>
 - Worked with Professor Allen Gehret, teaching assistants, and other learning assistants to foster collaborative learning and discussion
 - Mentored new learning assistants in pedagogy techniques
 - Core topics: First-order, linear differential equations; second-order, linear differential equations with constant coefficients; power series solutions; linear systems
-**_Learning Assistant for Calculus of Several Variables (Math 32A)_** | _Winter Quarter 2020_ <br>
+<br>**_Learning Assistant for Calculus of Several Variables (Math 32A)_** | _Winter Quarter 2020_ <br>
 - Worked with Professor Rolando de Santiago, teaching assistants, and other learning assistants to foster collaborative learning and discussion
 - Core topics: Intro to differential calculus of several variables; vector field theory
 
