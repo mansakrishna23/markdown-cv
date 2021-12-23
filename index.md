@@ -1,4 +1,4 @@
-_ Currently an undergraduate researcher with the Pablo Saide Research Group at UCLA and intends to pursue graduate studies and full-time roles in the Earth Sciences. My primary research interests include applications of Machine Learning and Numerical Methods to the Earth Sciences_
+_Currently an undergraduate researcher with the Pablo Saide Research Group at UCLA intending to pursue graduate studies and full-time roles in the Earth Sciences. My primary research interests include applications of Machine Learning and Numerical Methods to the Earth Sciences_
 
 [Email](mailto:mansakrishna23@gmail.com) / [LinkedIn](https://www.linkedin.com/in/mansa-krishna-96682419b) / [GitHub](https://github.com/mansakrishna23) / [Blog](https://mansakrishna23.github.io/)
 
