@@ -109,7 +109,7 @@ _August 2019 - September 2019_<br>
 ## University Coursework and Projects
 **Machine Learning (Math 156) Group Project**<br>
 **_Sentiment Analysis of Movie Reviews_**<br> 
-[GitHub Repository](https://github.com/mansakrishna23/Sentiment-Analysis-Movie-Recommendations) | _Fall Quarter 2021_ <br>
+[GitHub Repository](https://github.com/mansakrishna23/Sentiment-Analysis-Movie-Recommendations) | [Project](https://drive.google.com/file/d/1VqPxQbbuvg_dehOGu6WjFx4b6GEwderQ/view?usp=sharing) | _Fall Quarter 2021_ <br>
 - Collaborated on a machine learning project that aims to classify textual data (i.e., movie reviews) according to their associated sentiment (i.e., positive or negative sentiments)
 
 **Python with Applications II (PIC 16B) Group Project**<br> 
