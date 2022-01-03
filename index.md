@@ -9,6 +9,7 @@ _**B.S. Applied Mathematics, Specialization in Computing**_ <br>
 _**History Minor**_
 - Dean's Honors List _(Winter Quarter 2021)_
 - Dean's Honors List _(Spring Quarter 2021)_
+- Dean's Honors List _(Fall Quarter 2021)_
 - **Relevant Coursework**
   - Mathematics and Computing <br>
     - Machine Learning
