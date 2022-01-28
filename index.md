@@ -32,6 +32,10 @@ _**History Minor**_
     - Numerical Methods in Atmospheric Sciences
     - Introduction to Oceanography
 
+**NPS International School, Singapore** _(May 2018)_ <br>
+_**International Baccalaureate (IB) Diploma** Overall Score: 41 / 45_ <br>
+_Mathematics (Higher-Level), Physics (Higher-Level), Chemistry (Higher-Level), English Language and Literature (Standard-Level), Hindi B (Standard-Level), Economics (Standard-Level)_
+
 ## Skills
 - **Programming/Software**: <br>
 C++ (Object-Oriented Programming), Python (Object-Oriented Programming, TensorFlow, Keras, NumPy, Pandas, SciPy, Scikit-Learn, Matplotlib, Seaborn, OpenCV, sqlite3), SQL, Git, HTML, CSS, Jekyll, Linux
