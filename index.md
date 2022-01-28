@@ -89,6 +89,11 @@ _**Data Science Intern**_ | _July 2021 - September 2021_ <br>
 
 ## Teaching Experience
 **Learning Assistant Program, UCLA**<br>
+**_Learning Assistant for Python with Applications (PIC 16A)_** <br>
+_Winter Quarter 2022_ <br>
+- Worked with Professor Harlin Lee, teaching assistants, and other learning assistants to foster collaborative learning and discussion
+- Core topics: Core Python language constructs; applications; text processing; data visualization; interaction with spreadsheets and SQL databases; creation of graphical user interfaces.
+
 **_Learning Assistant for Upper-Division Linear Algebra (Math 115A)_** <br>
 _Winter Quarter 2021_ <br>
 - Worked with Professor Rose Morris-Wright, teaching assistants, and other learning assistants to foster collaborative learning and discussion
