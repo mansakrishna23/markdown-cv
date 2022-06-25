@@ -1,17 +1,16 @@
-_Currently an undergraduate researcher with the Pablo Saide Research Group at UCLA intending to pursue graduate studies and full-time roles in the Earth Sciences. My primary research interests include applications of Machine Learning and Numerical Methods to the Earth Sciences_
+_Previously an undergraduate researcher with the Pablo Saide Research Group at UCLA, will be pursuing graduate studies in the Earth Sciences at Dartmouth beginning this Fall. My primary research interests include applications of Machine Learning and Numerical Methods to the Earth Sciences_
 
 [Email](mailto:mansakrishna23@gmail.com) / [LinkedIn](https://www.linkedin.com/in/mansa-krishna-96682419b) / [GitHub](https://github.com/mansakrishna23) / [Blog](https://mansakrishna23.github.io/)
 
 ## Education
 
-**University of California, Los Angeles** _(Expected June 2022)_ <br>
+**University of California, Los Angeles** _(September 2018 - June 2022)_ <br>
 _**B.S. Applied Mathematics, Specialization in Computing**_ <br>
 _**History Minor**_
-- Dean's Honors List _(Winter Quarter 2021)_
-- Dean's Honors List _(Spring Quarter 2021)_
-- Dean's Honors List _(Fall Quarter 2021)_
+- Dean's Honors List _(Winter 2021, Spring 2021, Fall 2021, Winter 2022)_
 - **Relevant Coursework**
   - Mathematics and Computing <br>
+    - Mathematical Imaging
     - Machine Learning
     - Optimization
     - Algorithms
@@ -23,11 +22,12 @@ _**History Minor**_
     - Real Analysis
     - Discrete Structures
     - Introduction to Probability
+    - Introduction to Statistics
   - Physical Sciences
     - Physics for Scientists and Engineers: Mechanics
     - Physics for Scientists and Engineers: Oscillations, Waves, Electric and Magnetic Fields
     - Chemical Structure
-  - Earth Sciences
+  - Atmospheric, Oceanic, and Earth Sciences
     - Introduction to Undergraduate Research in Atmospheric and Oceanic Sciences
     - Numerical Methods in Atmospheric Sciences
     - Introduction to Oceanography
@@ -60,18 +60,26 @@ _**Undergraduate Research Scholar**_ | _October 2020 - June 2021_ <br>
 _**Krishna, M.**, Saide, P., Ye, X., Turney, F., Hair, J., Fenn, M., & Shingler, T. Plume Injection Heights Estimated From Weather Radar Observations. **Manuscript in Preparation.**_
 
 **Articles**:<br>
-_When to Enroll in Each Class_, [Link](https://stack.dailybruin.com/2021/02/05/class-fill-ups-2/) <br>
-_Exploring UCLA's Journey to becoming a Hispanic-Serving Institution_, [Link](https://stack.dailybruin.com/2021/05/11/student-demographic-hsis/) <br>
-_Hollywood in Westwood: Exploring Filmography on the UCLA Campus_, [Link](https://stack.dailybruin.com/2021/06/09/ucla-filming-locations/)
+_When to enroll in each class_, [Link](https://stack.dailybruin.com/2021/02/05/class-fill-ups-2/) <br>
+_Exploring UCLA’s journey to becoming a Hispanic-Serving Institution_, [Link](https://stack.dailybruin.com/2021/05/11/student-demographic-hsis/) <br>
+_Hollywood in Westwood: exploring filmography on the UCLA campus_, [Link](https://stack.dailybruin.com/2021/06/09/ucla-filming-locations/) <br>
+_Punctuality and popularity of public transit routes near UCLA’s campus_, [Link](https://stack.dailybruin.com/2022/03/01/public-transit/)
 
 ## Presentations
 **Meteorology and Climate - Modelling for Air Quality (MAC-MAQ) Conference, University of California - Davis**<br>
 _**Presenter**_ | [Abstract](https://macmaq.aqrc.ucdavis.edu/2021-program-content#Mansa_Krishna) | _September 2021_<br>
 - Presented research project (**_Title_**: Fire Plume Injection Heights Estimated From Doppler Weather Radar Observations) at the MAC-MAQ Conference as a Lightning Talk and [Poster Presentation](https://drive.google.com/file/d/1LP33CvY-9QxeG6uVAMulJmDngSBbXS1L/view?usp=sharing).
 
+**Fire and Climate Conference: Impacts, Issues, and Futures**<br>
+_**Presenter**_ | _May 2022_ <br>
+- Presented research (**_Title_**: Plume Injection Heights Estimated From Doppler Weather Radar Observations) at the Fire and Climate Conference, Pasadena, as an oral presentation in the Smoke Transport and Air Quality Session.
+
 **UCLA Undergraduate Research Week - Atmospheric and Environmental Science Showcase**<br>
+_**Presenter**_ | _May 2022_ <br>
+- Presented research project (**_Title_**: Plume Injection Heights Estimated From Weather Radar Observations) as a live presentation, part of the 2022 UCLA Undergraduate Research Week Atmospheric and Environmental Science Showcase
 _**Presenter**_ | [Presentation Link](https://www.youtube.com/watch?v=ZgUGZrOEU7E) | _May 2021_ <br>
 - Presented year-long research project (**_Title_**: Plume Injection Heights Estimated From Weather Radar Observations) as part of the 2021 UCLA Undergraduate Research Week Atmospheric and Environmental Science Showcase
+
 
 ## Work Experience
 **Anthem, Inc., United States**<br>
@@ -89,6 +97,11 @@ _**Data Science Intern**_ | _July 2021 - September 2021_ <br>
 
 ## Teaching Experience
 **Learning Assistant Program, UCLA**<br>
+**_Anti-Racism Discussion (ARD) Facilitator_** <br>
+_Spring Quarter 2022_ <br>
+- Worked with teaching assistants and other ARD facilitators to provide space for UCLA undergraduate students to participate in anti-racism discourse. 
+- Engaged students in regular discussion and reflection on topics related to systemic racism within our communities through proactive, small-group conversations. 
+
 **_Learning Assistant for Python with Applications (PIC 16A)_** <br>
 _Winter Quarter 2022_ <br>
 - Worked with Professor Harlin Lee, teaching assistants, and other learning assistants to foster collaborative learning and discussion
