@@ -3,6 +3,8 @@ _Previously an undergraduate researcher with the Pablo Saide Research Group at U
 [Email](mailto:mansakrishna23@gmail.com) / [LinkedIn](https://www.linkedin.com/in/mansa-krishna-96682419b) / [GitHub](https://github.com/mansakrishna23) / [Blog](https://mansakrishna23.github.io/)
 
 ## Education
+**Dartmouth College** _(September 2022 - Present)_ <br>
+_**PhD Graduate Program in Earth Sciences**_ <br>
 
 **University of California, Los Angeles** _(September 2018 - June 2022)_ <br>
 _**B.S. Applied Mathematics, Specialization in Computing**_ <br>
@@ -45,6 +47,11 @@ Word, Excel, PowerPoint, Outlook
 English _(Native)_, Hindi _(Fluent)_, Tamil _(Beginner, Spoken only)_
 
 ## Research
+**"Ice Future" - Research Group** | [Webpage](https://icefuture.org/) <br>
+**_Graduate Student_** | _September 2022 - Present_ <br>
+- Working with research advisor, Dr. Mathieu Morlighem, Dept. of Earth Sciences, Dartmouth College
+- Research involves exploring the applications of deep learning models to ice sheet and glacier dynamics
+
 **Pablo Saide Research Group** | [Webpage](https://dept.atmos.ucla.edu/saide/home) <br>
 **_Undergraduate Researcher_** | _October 2020 - June 2022_ <br>
 - Collaborating on a research project with Dr. Pablo Saide, Dept. of Atmospheric and Oceanic Sciences, UCLA
