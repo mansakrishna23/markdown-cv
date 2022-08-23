@@ -8,7 +8,7 @@ _**PhD Graduate Program in Earth Sciences**_ <br>
 
 **University of California, Los Angeles** _(September 2018 - June 2022)_ <br>
 _**B.S. Applied Mathematics, Specialization in Computing**_ <br>
-_**History Minor**_
+_**History Minor**_ <br>
 Dean's Honors List _(Winter 2021, Spring 2021, Fall 2021, Winter 2022)_
 
 **NPS International School, Singapore** _(May 2018)_ <br>
