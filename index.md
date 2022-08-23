@@ -72,14 +72,14 @@ _**Presenter**_ | [Presentation Link](https://www.youtube.com/watch?v=ZgUGZrOEU7
 
 
 ## Work Experience
-**Anthem, Inc., United States**<br>
-_**Data Science Intern**_ | _July 2021 - September 2021_ <br>
-- Developed a collinearity reduction and feature selection algorithm to create robust training data for machine learning models using principal component analysis
-
 **The Stack, Daily Bruin (UCLA Student Media)**<br>
 **_Data Journalist_** | [The Stack Page](https://stack.dailybruin.com/) | _October 2020 - Present_ <br>
 - Building digital stories with The Stack, Daily Bruin (UCLA's student-run publication)
 - Investigating public data, experimenting with technology, and applying quantitative insights to the real world at The Stack (Daily Bruin's data journalism and newsroom tech blog)
+
+**Anthem, Inc., United States**<br>
+_**Data Science Intern**_ | _July 2021 - September 2021_ <br>
+- Developed a collinearity reduction and feature selection algorithm to create robust training data for machine learning models using principal component analysis
 
 **Visseiro Digital Healthcare, Germany**<br>
 **_Data Science e-Intern_** | _June 2020 - August 2020_ <br>
