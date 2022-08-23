@@ -47,12 +47,11 @@ _**Undergraduate Research Scholar**_ | _October 2020 - June 2021_ <br>
 **Research**:<br>
 _**Krishna, M.**, Saide, P., Ye, X., Turney, F., Hair, J., Fenn, M., & Shingler, T. Plume Injection Heights Estimated From Weather Radar Observations. **Manuscript in Preparation.**_
 
-**Articles**:<br>
-[The Stack](https://stack.dailybruin.com), Daily Bruin Articles:<br>
-- _When to enroll in each class_, [Link](https://stack.dailybruin.com/2021/02/05/class-fill-ups-2/) <br>
-- _Exploring UCLA’s journey to becoming a Hispanic-Serving Institution_, [Link](https://stack.dailybruin.com/2021/05/11/student-demographic-hsis/) <br>
-- _Hollywood in Westwood: exploring filmography on the UCLA campus_, [Link](https://stack.dailybruin.com/2021/06/09/ucla-filming-locations/) <br>
-- _Punctuality and popularity of public transit routes near UCLA’s campus_, [Link](https://stack.dailybruin.com/2022/03/01/public-transit/)
+**Articles**<br>
+_When to enroll in each class_, [Link](https://stack.dailybruin.com/2021/02/05/class-fill-ups-2/) <br>
+_Exploring UCLA’s journey to becoming a Hispanic-Serving Institution_, [Link](https://stack.dailybruin.com/2021/05/11/student-demographic-hsis/) <br>
+_Hollywood in Westwood: exploring filmography on the UCLA campus_, [Link](https://stack.dailybruin.com/2021/06/09/ucla-filming-locations/) <br>
+_Punctuality and popularity of public transit routes near UCLA’s campus_, [Link](https://stack.dailybruin.com/2022/03/01/public-transit/)
 
 ## Presentations
 **Fire and Climate Conference: Impacts, Issues, and Futures**<br>
