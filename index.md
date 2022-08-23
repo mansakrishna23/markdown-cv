@@ -16,7 +16,7 @@ _**International Baccalaureate (IB) Diploma** Overall Score: 41 / 45_ <br>
 _Mathematics (Higher-Level), Physics (Higher-Level), Chemistry (Higher-Level), English Language and Literature (Standard-Level), Hindi B (Standard-Level), Economics (Standard-Level)_
 
 **Singapore Indian Fine Arts Society** _(June 2018)_ <br>
-_**Diploma in Classical Indian Dance, Bharatanatyam**_
+_**Diploma in Classical Indian Dance, Bharatanatyam**_<br>
 _Professionally trained in Bharatanatyam for eight years and awarded a diploma_
 
 ## Skills
