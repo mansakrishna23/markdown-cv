@@ -1,4 +1,4 @@
-_Previously an undergraduate researcher with the Pablo Saide Research Group at UCLA, will be pursuing graduate studies in the Earth Sciences at Dartmouth beginning this Fall. My primary research interests include applications of Machine Learning and Numerical Methods to the Earth Sciences_
+_Previously an undergraduate researcher with the Pablo Saide Research Group at UCLA, will be pursuing graduate studies in the Earth Sciences at Dartmouth beginning this Fall. My primary research interests include applications of Machine Learning to the Earth Sciences_
 
 [Email](mailto:mansakrishna23@gmail.com) / [LinkedIn](https://www.linkedin.com/in/mansa-krishna-96682419b) / [GitHub](https://github.com/mansakrishna23) / [Blog](https://mansakrishna23.github.io/)
 
@@ -10,33 +10,14 @@ _**PhD Graduate Program in Earth Sciences**_ <br>
 _**B.S. Applied Mathematics, Specialization in Computing**_ <br>
 _**History Minor**_
 - Dean's Honors List _(Winter 2021, Spring 2021, Fall 2021, Winter 2022)_
-- **Relevant Coursework**
-  - Mathematics and Computing <br>
-    - Mathematical Imaging
-    - Machine Learning
-    - Optimization
-    - Algorithms
-    - Python with Applications
-    - Calculus of Several Variables
-    - Linear Algebra
-    - Differential Equations
-    - Mathematical Modelling
-    - Real Analysis
-    - Discrete Structures
-    - Introduction to Probability
-    - Introduction to Statistics
-  - Physical Sciences
-    - Physics for Scientists and Engineers: Mechanics
-    - Physics for Scientists and Engineers: Oscillations, Waves, Electric and Magnetic Fields
-    - Chemical Structure
-  - Atmospheric, Oceanic, and Earth Sciences
-    - Introduction to Undergraduate Research in Atmospheric and Oceanic Sciences
-    - Numerical Methods in Atmospheric Sciences
-    - Introduction to Oceanography
 
 **NPS International School, Singapore** _(May 2018)_ <br>
 _**International Baccalaureate (IB) Diploma** Overall Score: 41 / 45_ <br>
 _Mathematics (Higher-Level), Physics (Higher-Level), Chemistry (Higher-Level), English Language and Literature (Standard-Level), Hindi B (Standard-Level), Economics (Standard-Level)_
+
+**Singapore Indian Fine Arts Society** _(June 2018)_ <br>
+_**Diploma in Classical Indian Dance, Bharatanatyam**_
+_Professionally trained in Bharatanatyam for eight years and awarded a diploma_
 
 ## Skills
 - **Programming/Software**: <br>
@@ -67,6 +48,7 @@ _**Undergraduate Research Scholar**_ | _October 2020 - June 2021_ <br>
 _**Krishna, M.**, Saide, P., Ye, X., Turney, F., Hair, J., Fenn, M., & Shingler, T. Plume Injection Heights Estimated From Weather Radar Observations. **Manuscript in Preparation.**_
 
 **Articles**:<br>
+Daily Bruin, [The Stack](https://stack.dailybruin.com)<br>
 _When to enroll in each class_, [Link](https://stack.dailybruin.com/2021/02/05/class-fill-ups-2/) <br>
 _Exploring UCLA’s journey to becoming a Hispanic-Serving Institution_, [Link](https://stack.dailybruin.com/2021/05/11/student-demographic-hsis/) <br>
 _Hollywood in Westwood: exploring filmography on the UCLA campus_, [Link](https://stack.dailybruin.com/2021/06/09/ucla-filming-locations/) <br>
@@ -82,7 +64,7 @@ _**Presenter**_ | _May 2022_ <br>
 - Presented research project (**_Title_**: Plume Injection Heights Estimated From Weather Radar Observations) as a live presentation, part of the 2022 UCLA Undergraduate Research Week Atmospheric and Environmental Science Showcase
 
 **Meteorology and Climate - Modelling for Air Quality (MAC-MAQ) Conference, University of California - Davis**<br>
-_**Presenter**_ | [Abstract](https://macmaq.aqrc.ucdavis.edu/2021-program-content#Mansa_Krishna) | _September 2021_<br>
+_**Poster Presenter**_ | [Abstract](https://macmaq.aqrc.ucdavis.edu/2021-program-content#Mansa_Krishna) | _September 2021_<br>
 - Presented research project (**_Title_**: Fire Plume Injection Heights Estimated From Doppler Weather Radar Observations) at the MAC-MAQ Conference as a Lightning Talk and [Poster Presentation](https://drive.google.com/file/d/1LP33CvY-9QxeG6uVAMulJmDngSBbXS1L/view?usp=sharing).
 
 **UCLA Undergraduate Research Week 2021 - Atmospheric and Environmental Science Showcase**<br>
@@ -137,6 +119,11 @@ _Winter Quarter 2020_ <br>
 _August 2019 - September 2019_<br>
 - Taught and clarified mathematical concepts to high school students in a one-on-one setting 
 - Created practice test papers for students
+
+## Honors and Awards
+**Mathematical Contest in Modelling** | _February 2022_
+_**Designation of Honorable Mention**_
+_Participated in a team of three (from UCLA), proposed a solution to an open-ended data insights problem_
 
 ## University Coursework and Projects
 **Machine Learning (Math 156) Group Project**<br>
