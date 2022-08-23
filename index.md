@@ -121,8 +121,8 @@ _August 2019 - September 2019_<br>
 - Created practice test papers for students
 
 ## Honors and Awards
-**Mathematical Contest in Modelling** | _February 2022_
-_**Designation of Honorable Mention**_
+**Mathematical Contest in Modelling** | _February 2022_ <br>
+_**Designation of Honorable Mention**_ <br>
 _Participated in a team of three (from UCLA), proposed a solution to an open-ended data insights problem_
 
 ## University Coursework and Projects
