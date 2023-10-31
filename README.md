@@ -1,4 +1,4 @@
 # markdown-cv
-I am a recent graduate of the University of California Los Angeles (UCLA), pursued a B.S. in Applied Mathematics with a Specialization in Computing.  
+I am a graduate of the University of California Los Angeles (UCLA), pursued a B.S. in Applied Mathematics with a Specialization in Computing. Worked with the Pablo Saide Research Group -- UCLA as an undergraduate researcher. 
 
-Previously an undergraduate researcher with the Pablo Saide Research Group at UCLA, I am an incoming graduate student at Dartmouth, intending to pursue research in the Earth Sciences. 
+I am currently a second-year graduate student at Dartmouth, working on physics informed machine learning emulators for ice sheet models.  
