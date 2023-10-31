@@ -1,4 +1,4 @@
-_Previously an undergraduate researcher with the Pablo Saide Research Group at UCLA, will be pursuing graduate studies in the Earth Sciences at Dartmouth beginning this Fall. My primary research interests include applications of Machine Learning to the Earth Sciences_
+_Previously an undergraduate researcher with the Pablo Saide Research Group at UCLA, currently pursuing graduate studies in the Earth Sciences at Dartmouth. My primary research interests include machine learning applications to the cryospheric sciences._
 
 [Email](mailto:mansakrishna23@gmail.com) / [LinkedIn](https://www.linkedin.com/in/mansa-krishna-96682419b) / [GitHub](https://github.com/mansakrishna23) / [Blog](https://mansakrishna23.github.io/)
 
@@ -21,7 +21,17 @@ _Professionally trained in Bharatanatyam for eight years and awarded a diploma_
 
 ## Skills
 - **Programming/Software**: <br>
-C++ (Object-Oriented Programming), Python (Object-Oriented Programming, TensorFlow, Keras, NumPy, Pandas, SciPy, Scikit-Learn, Matplotlib, Seaborn, OpenCV, sqlite3), SQL, Git, HTML, CSS, Jekyll, Linux
+  * Object-Oriented Programming (C++, Python)
+  * Machine Learning (Python - TensorFlow, Keras, Scikit-Learn, PyTorch)
+  * Data Science (MATLAB, Python - NumPy, Pandas, SciPy, sqlite3)
+  * Numerical Methods and Modeling (Python, MATLAB, ISSM)
+  * Data Visualization (MATLAB, Python - Matplotlib, Seaborn)
+  * Version Control (Git)
+  * Website Development (HTML, CSS, Jekyll)
+  * Computer Vision (Python - OpenCV)
+  * Command Line (Linux)
+  * Containers (Docker, Apptainer)
+  * High Performance Computing
 - **Microsoft Office**:<br>
 Word, Excel, PowerPoint, Outlook
 - **Languages**:<br>
@@ -45,7 +55,7 @@ _**Undergraduate Research Scholar**_ | _October 2020 - June 2021_ <br>
 
 ## Publications
 **Research**:<br>
-_**Krishna, M.**, Saide, P., Ye, X., Turney, F., Hair, J., Fenn, M., & Shingler, T. Plume Injection Heights Estimated From Weather Radar Observations. **Manuscript in Preparation.**_
+_**Krishna, M.**, Saide, P., Ye, X., Turney, F., Hair, J., Fenn, M., & Shingler, T. Plume Injection Heights Estimated From Weather Radar Observations. **Submitted, under review.**_
 
 **Articles**<br>
 _When to enroll in each class_, [Link](https://stack.dailybruin.com/2021/02/05/class-fill-ups-2/) <br>
