@@ -1,10 +1,11 @@
-_Previously an undergraduate researcher with the Pablo Saide Research Group at UCLA, currently pursuing graduate studies in the Earth Sciences at Dartmouth. My primary research interests include machine learning applications to the cryospheric sciences._
+_Currently a PhD student of Earth Sciences at Dartmouth, working with Dr. Mathieu Morlighem. Previously an undergraduate researcher with Dr. Pablo Saide at UCLA. My primary research interests include modeling, numerical methods, and machine learning in the cryospheric sciences._
 
 [Email](mailto:mansakrishna23@gmail.com) / [LinkedIn](https://www.linkedin.com/in/mansa-krishna-96682419b) / [GitHub](https://github.com/mansakrishna23) / [Blog](https://mansakrishna23.github.io/)
 
 ## Education
 **Dartmouth College** _(September 2022 - Present)_ <br>
 _**PhD Graduate Program in Earth Sciences**_ <br>
+_Research project on inferring the bed topography beneath ice sheets using physics informed machine learning._
 
 **University of California, Los Angeles** _(September 2018 - June 2022)_ <br>
 _**B.S. Applied Mathematics, Specialization in Computing**_ <br>
@@ -24,7 +25,7 @@ _Professionally trained in Bharatanatyam for eight years and awarded a diploma_
   * Object-Oriented Programming (C++, Python)
   * Machine Learning (Python - TensorFlow, Keras, Scikit-Learn, PyTorch)
   * Data Science (MATLAB, Python - NumPy, Pandas, SciPy, sqlite3)
-  * Numerical Methods and Modeling (Python, MATLAB, ISSM)
+  * Numerical Methods and Modeling (Python, MATLAB, Ice Sheet and Sea Level System Model)
   * Data Visualization (MATLAB, Python - Matplotlib, Seaborn)
   * Version Control (Git)
   * Website Development (HTML, CSS, Jekyll)
