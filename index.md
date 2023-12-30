@@ -56,9 +56,9 @@ _**Undergraduate Research Scholar**_ | _October 2020 - June 2021_ <br>
 
 ## Publications
 **Research**:<br>
-_Saide, P. E., Krishna, M., Ye, X., Thapa, L. H., Turney, F., Howes, C., & Schmidt, C. C. (2023). Estimating Fire Radiative Power Using Weather Radar Products for Wildfires. Geophysical Research Letters, 50(21), e2023GL104824. [https://doi.org/10.1029/2023GL104824]_
+_Saide, P. E., Krishna, M., Ye, X., Thapa, L. H., Turney, F., Howes, C., & Schmidt, C. C. (2023). Estimating Fire Radiative Power Using Weather Radar Products for Wildfires. Geophysical Research Letters, 50(21), e2023GL104824. [https://doi.org/10.1029/2023GL104824](https://doi.org/10.1029/2023GL104824)_
 
-_Krishna, M., Saide, P. E., Ye, X., Turney, F., Hair, J. W., Fenn, M., & Shingler, T. (n.d.). Evaluation of plume injection heights estimated from operational weather radar observations. **(Submitted, under review)**. Preprint available at: [https://essopenarchive.org/doi/full/10.22541/essoar.169447401.10794597/v1]_
+_Krishna, M., Saide, P. E., Ye, X., Turney, F., Hair, J. W., Fenn, M., & Shingler, T. (n.d.). Evaluation of plume injection heights estimated from operational weather radar observations. **(Submitted, under review)**. Preprint available at: [https://essopenarchive.org/doi/full/10.22541/essoar.169447401.10794597/v1](https://essopenarchive.org/doi/full/10.22541/essoar.169447401.10794597/v1)_
 
 **Articles**<br>
 _When to enroll in each class_, [Link](https://stack.dailybruin.com/2021/02/05/class-fill-ups-2/) <br>
