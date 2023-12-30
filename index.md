@@ -25,7 +25,7 @@ _Professionally trained in Bharatanatyam for eight years and awarded a diploma_
   * Object-Oriented Programming (C++, Python)
   * Machine Learning (Python - TensorFlow, Keras, Scikit-Learn, PyTorch)
   * Data Science (MATLAB, Python - NumPy, Pandas, SciPy, sqlite3)
-  * Numerical Methods and Modeling (Python, MATLAB, Ice Sheet and Sea Level System Model)
+  * Numerical Methods and Modeling (Python, MATLAB, Ice-sheet and Sea-level System Model)
   * Data Visualization (MATLAB, Python - Matplotlib, Seaborn)
   * Version Control (Git)
   * Website Development (HTML, CSS, Jekyll)
@@ -39,12 +39,12 @@ Word, Excel, PowerPoint, Outlook
 English _(Native)_, Hindi _(Fluent)_, Tamil _(Beginner, Spoken only)_
 
 ## Research
-**"Ice Future" - Research Group** | [Webpage](https://icefuture.org/) <br>
-**_Graduate Student_** | _September 2022 - Present_ <br>
-- Working with research advisor, Dr. Mathieu Morlighem, Dept. of Earth Sciences, Dartmouth College
-- Research involves exploring the applications of deep learning models to ice sheet and glacier dynamics
+**"Ice Future" - Research Group, Dartmouth College** | [Webpage](https://icefuture.org/) <br>
+**_PhD Student_** | _September 2022 - Present_ <br>
+- Working with Dr. Mathieu Morlighem, Dept. of Earth Sciences, Dartmouth College
+- Developing physics-informed machine learning models to infer ice sheet bed topography using ice sheet surface features
 
-**Pablo Saide Research Group** | [Webpage](https://dept.atmos.ucla.edu/saide/home) <br>
+**Pablo Saide Research Group, UCLA** | [Webpage](https://dept.atmos.ucla.edu/saide/home) <br>
 **_Undergraduate Researcher_** | _October 2020 - June 2022_ <br>
 - Collaborating on a research project with Dr. Pablo Saide, Dept. of Atmospheric and Oceanic Sciences, UCLA
 - Investigating Doppler Radar data to retrieve fire plume injection heights for the purpose of evaluating air quality and high-resolution fire spread models
@@ -56,7 +56,9 @@ _**Undergraduate Research Scholar**_ | _October 2020 - June 2021_ <br>
 
 ## Publications
 **Research**:<br>
-_**Krishna, M.**, Saide, P., Ye, X., Turney, F., Hair, J., Fenn, M., & Shingler, T. Plume Injection Heights Estimated From Weather Radar Observations. **Submitted, under review.**_
+_Saide, P. E., Krishna, M., Ye, X., Thapa, L. H., Turney, F., Howes, C., & Schmidt, C. C. (2023). Estimating Fire Radiative Power Using Weather Radar Products for Wildfires. Geophysical Research Letters, 50(21), e2023GL104824. [https://doi.org/10.1029/2023GL104824]_
+
+_Krishna, M., Saide, P. E., Ye, X., Turney, F., Hair, J. W., Fenn, M., & Shingler, T. (n.d.). Evaluation of plume injection heights estimated from operational weather radar observations. **(Submitted, under review)**. Preprint available at: [https://essopenarchive.org/doi/full/10.22541/essoar.169447401.10794597/v1]_
 
 **Articles**<br>
 _When to enroll in each class_, [Link](https://stack.dailybruin.com/2021/02/05/class-fill-ups-2/) <br>
@@ -65,6 +67,10 @@ _Hollywood in Westwood: exploring filmography on the UCLA campus_, [Link](https:
 _Punctuality and popularity of public transit routes near UCLA’s campus_, [Link](https://stack.dailybruin.com/2022/03/01/public-transit/)
 
 ## Presentations
+**American Geophysical Union**<br>
+_**e-Lightning Talk and Poster**_ | [Abstract](https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1289845) | [Poster](https://agu23.ipostersessions.com/Default.aspx?s=65-AB-AE-77-CE-62-E8-20-5B-D6-0E-5E-A5-04-5F-00) | _December 2023_ <br>
+- Presented research (**_Title_**: Inferring Bed Topography from Ice Sheet Surface Features Using Physics Informed Machine Learning) at the Machine Learning and the Cryosphere: Data and Modeling III session.
+
 **Fire and Climate Conference: Impacts, Issues, and Futures**<br>
 _**Presenter**_ | _May 2022_ <br>
 - Presented research (**_Title_**: Plume Injection Heights Estimated From Doppler Weather Radar Observations) at the Fire and Climate Conference, Pasadena, as an oral presentation in the Smoke Transport and Air Quality Session.
@@ -97,30 +103,30 @@ _**Data Science Intern**_ | _July 2021 - September 2021_ <br>
 - Developed algorithms using unsupervised machine learning and statistical methods to detect anomalies in medical respiratory data
 
 ## Teaching Experience
+**Reproducible Research Training, Dartmouth** | _April 2023 - October 2023_ <br>
+**_Volunteer Learning Assistant_** <br>
+- Volunteering with Research Data Services team at Dartmouth College to help facilitate learning in computer programming workshops, including Python and Machine Learning workshops.
+- Helped with curriculum development of Intro to Programming (Python) workshops. 
+
 **Learning Assistant Program, UCLA**<br>
-**_Anti-Racism Discussion (ARD) Facilitator_** <br>
-_Spring Quarter 2022_ <br>
+**_Anti-Racism Discussion (ARD) Facilitator_** | _April 2022 - June 2022_ <br>
 - Worked with teaching assistants and other ARD facilitators to provide space for UCLA undergraduate students to participate in anti-racism discourse. 
 - Engaged students in regular discussion and reflection on topics related to systemic racism within our communities through proactive, small-group conversations. 
 
-**_Learning Assistant for Python with Applications (PIC 16A)_** <br>
-_Winter Quarter 2022_ <br>
+**_Learning Assistant for Python with Applications (PIC 16A)_** | January 2022 - March 2022_ <br>
 - Worked with Professor Harlin Lee, teaching assistants, and other learning assistants to foster collaborative learning and discussion
 - Core topics: Core Python language constructs; applications; text processing; data visualization; interaction with spreadsheets and SQL databases; creation of graphical user interfaces.
 
-**_Learning Assistant for Upper-Division Linear Algebra (Math 115A)_** <br>
-_Winter Quarter 2021_ <br>
+**_Learning Assistant for Upper-Division Linear Algebra (Math 115A)_** | _January 2021 - March 2021_ <br>
 - Worked with Professor Rose Morris-Wright, teaching assistants, and other learning assistants to foster collaborative learning and discussion
 - Core topics: Techniques of proof; abstract vector spaces; linear transformations; matrices and determinants; inner product spaces; eigenvector theory
 
-**_Head Pedagogy Learning Assistant for Differential Equations (Math 33B)_** <br>
-_Spring Quarter 2020_ <br>
+**_Head Pedagogy Learning Assistant for Differential Equations (Math 33B)_** | _April 2020 - June 2020_ <br>
 - Worked with Professor Allen Gehret, teaching assistants, and other learning assistants to foster collaborative learning and discussion
 - Mentored new learning assistants in pedagogy techniques
 - Core topics: First-order, linear differential equations; second-order, linear differential equations with constant coefficients; power series solutions; linear systems
 
-**_Learning Assistant for Calculus of Several Variables (Math 32A)_** <br>
-_Winter Quarter 2020_ <br>
+**_Learning Assistant for Calculus of Several Variables (Math 32A)_** | _January 2020 - March 2020_ <br>
 - Worked with Professor Rolando de Santiago, teaching assistants, and other learning assistants to foster collaborative learning and discussion
 - Core topics: Intro to differential calculus of several variables; vector field theory
 
