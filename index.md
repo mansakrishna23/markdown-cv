@@ -97,7 +97,7 @@ Presentation | [Presentation Link](https://www.youtube.com/watch?v=ZgUGZrOEU7E) 
 
 ## Work Experience
 **[The Stack](https://stack.dailybruin.com/), Daily Bruin (UCLA Student Media)** <br>
-Data Journalist | October 2020 - Present <br>
+Data Journalist | October 2020 - June 2022 <br>
 > Building digital stories with The Stack, Daily Bruin (UCLA's student-run publication). <br>
 > Investigating public data, experimenting with technology, and applying quantitative insights to the real world at The Stack (Daily Bruin's data journalism and newsroom tech blog).
 
