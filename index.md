@@ -5,7 +5,7 @@ _Currently a PhD Candidate in the Dept. of Earth Sciences at Dartmouth, working 
 ## Education
 **Dartmouth College** _(September 2022 - Present)_ <br>
 _**PhD Candidate, Dept. of Earth Sciences, Guarini School of Graduate and Advanced Studies**_ <br>
-_Part of the "Ice-Future" - Research Group, advised by Prof. Mathieu Morlighem._
+_Member of the "Ice-Future" - Research Group, advised by Prof. Mathieu Morlighem._
 > **Summer Schools**
 > **[Karthaus Summer School](https://www.projects.science.uu.nl/iceclimate/karthaus/index.php): Summer school on ice sheets and glaciers in the climate system** (May 2024) | Intensive training on ice dynamics and ice-climate interactions.  
 > **Glaciology in Machine Learning Summer School ([GlaMacLeS](https://glamacles.github.io))** (June 2024) | Robust training in various artificial intelligience architectures and their applications to glaciology.   
@@ -72,41 +72,41 @@ _Punctuality and popularity of public transit routes near UCLA’s campus_, [Lin
 ## Presentations
 **Northeast Glaciology Meeting (NEGM) 2024**<br>
 _**Oral Presentation**_ | _March 2024_ <br>
-> Presented research (**_Title_**: Simultaneously Inferring Subglacial Topography and Basal Sliding with Physics Informed Machine Learning) at NEGM 2024, hosted at the Massachusetts Institute of Technology (MIT), in a 10-minute oral presentation.
+- Presented research (**_Title_**: Simultaneously Inferring Subglacial Topography and Basal Sliding with Physics Informed Machine Learning) at NEGM 2024, hosted at the Massachusetts Institute of Technology (MIT), in a 10-minute oral presentation.
 
 **American Geophysical Union (AGU) 2023**<br>
 _**e-Lightning Talk and Poster**_ | [Abstract](https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1289845) | [Poster](https://agu23.ipostersessions.com/Default.aspx?s=65-AB-AE-77-CE-62-E8-20-5B-D6-0E-5E-A5-04-5F-00) | _December 2023_ <br>
-> Presented research (**_Title_**: Inferring Bed Topography from Ice Sheet Surface Features Using Physics Informed Machine Learning) at the Machine Learning and the Cryosphere: Data and Modeling III session.
+- Presented research (**_Title_**: Inferring Bed Topography from Ice Sheet Surface Features Using Physics Informed Machine Learning) at the Machine Learning and the Cryosphere: Data and Modeling III session.
 
 **Fire and Climate Conference: Impacts, Issues, and Futures**<br>
 _**Presenter**_ | _May 2022_ <br>
-> Presented research (**_Title_**: Plume Injection Heights Estimated From Doppler Weather Radar Observations) at the Fire and Climate Conference, Pasadena, as an oral presentation in the Smoke Transport and Air Quality Session.
+- Presented research (**_Title_**: Plume Injection Heights Estimated From Doppler Weather Radar Observations) at the Fire and Climate Conference, Pasadena, as an oral presentation in the Smoke Transport and Air Quality Session.
 
 **UCLA Undergraduate Research Week 2022 - Atmospheric and Environmental Science Showcase**<br>
 _**Presenter**_ | _May 2022_ <br>
-> Presented research project (**_Title_**: Plume Injection Heights Estimated From Weather Radar Observations) as a live presentation, part of the 2022 UCLA Undergraduate Research Week Atmospheric and Environmental Science Showcase
+- Presented research project (**_Title_**: Plume Injection Heights Estimated From Weather Radar Observations) as a live presentation, part of the 2022 UCLA Undergraduate Research Week Atmospheric and Environmental Science Showcase
 
 **Meteorology and Climate - Modelling for Air Quality (MAC-MAQ) Conference, University of California - Davis**<br>
 _**Poster Presenter**_ | [Abstract](https://macmaq.aqrc.ucdavis.edu/2021-program-content#Mansa_Krishna) | _September 2021_<br>
-> Presented research project (**_Title_**: Fire Plume Injection Heights Estimated From Doppler Weather Radar Observations) at the MAC-MAQ Conference as a Lightning Talk and [Poster Presentation](https://drive.google.com/file/d/1LP33CvY-9QxeG6uVAMulJmDngSBbXS1L/view?usp=sharing).
+- Presented research project (**_Title_**: Fire Plume Injection Heights Estimated From Doppler Weather Radar Observations) at the MAC-MAQ Conference as a Lightning Talk and [Poster Presentation](https://drive.google.com/file/d/1LP33CvY-9QxeG6uVAMulJmDngSBbXS1L/view?usp=sharing).
 
 **UCLA Undergraduate Research Week 2021 - Atmospheric and Environmental Science Showcase**<br>
 _**Presenter**_ | [Presentation Link](https://www.youtube.com/watch?v=ZgUGZrOEU7E) | _May 2021_ <br>
-> Presented year-long research project (**_Title_**: Plume Injection Heights Estimated From Weather Radar Observations) as part of the 2021 UCLA Undergraduate Research Week Atmospheric and Environmental Science Showcase
+- Presented year-long research project (**_Title_**: Plume Injection Heights Estimated From Weather Radar Observations) as part of the 2021 UCLA Undergraduate Research Week Atmospheric and Environmental Science Showcase
 
 ## Work Experience
 **The Stack, Daily Bruin (UCLA Student Media)**<br>
 **_Data Journalist_** | [The Stack Page](https://stack.dailybruin.com/) | _October 2020 - Present_ <br>
-> Building digital stories with The Stack, Daily Bruin (UCLA's student-run publication)
-> Investigating public data, experimenting with technology, and applying quantitative insights to the real world at The Stack (Daily Bruin's data journalism and newsroom tech blog)
+- Building digital stories with The Stack, Daily Bruin (UCLA's student-run publication)
+- Investigating public data, experimenting with technology, and applying quantitative insights to the real world at The Stack (Daily Bruin's data journalism and newsroom tech blog)
 
 **Anthem, Inc., United States**<br>
 _**Data Science Intern**_ | _July 2021 - September 2021_ <br>
-* Developed a collinearity reduction and feature selection algorithm to create robust training data for machine learning models using principal component analysis
+- Developed a collinearity reduction and feature selection algorithm to create robust training data for machine learning models using principal component analysis
 
 **Visseiro Digital Healthcare, Germany**<br>
 **_Data Science e-Intern_** | _June 2020 - August 2020_ <br>
-* Developed algorithms using unsupervised machine learning and statistical methods to detect anomalies in medical respiratory data
+- Developed algorithms using unsupervised machine learning and statistical methods to detect anomalies in medical respiratory data
 
 ## Teaching Experience
 **Hackweek, University of Washington** | August 2024<br>
@@ -150,23 +150,27 @@ _August 2019 - September 2019_<br>
 _**Designation of Honorable Mention**_ <br>
 _Participated in a team of three (from UCLA), proposed a solution to an open-ended data insights problem_
 
-## Relevant University Coursework and Mini Research Projects
-**Machine Learning (Math 156) Group Project**<br>
+## Mini Research Projects
+**Geophysical Fluid Dynamics (Dartmouth ENGG 199.12) Final Project**<br>
+**Numerical Methods (Dartmouth ENGG 199.13) Final Project**<br>
+**Math Modeling of Earth Sciences (Dartmouth EARS 107) Final Project**<br>
+
+**Machine Learning (UCLA Math 156) Group Project**<br>
 **_Sentiment Analysis of Movie Reviews_**<br> 
 [GitHub Repository](https://github.com/mansakrishna23/Sentiment-Analysis-Movie-Recommendations) | [Project](https://drive.google.com/file/d/1VqPxQbbuvg_dehOGu6WjFx4b6GEwderQ/view?usp=sharing) | _Fall Quarter 2021_ <br>
 - Collaborated on a machine learning project that aims to classify textual data (i.e., movie reviews) according to their associated sentiment (i.e., positive or negative sentiments)
 
-**Python with Applications II (PIC 16B) Group Project**<br> 
+**Python with Applications II (UCLA PIC 16B) Group Project**<br> 
 **_Sign Language Translation_** <br>
 [GitHub Repository](https://github.com/pfflanders/Sign-Language-Translation) | _Fall Quarter 2021_ <br>
 - Collaborating on a Machine Learning project that aims to provide a live translation of sign languages by creating a convolutional neural network (CNN).
 
-**Numerical Methods in Atmospheric Science (A&O SCI 180) Project**<br>
+**Numerical Methods in Atmospheric Science (UCLA A&O SCI 180) Project**<br>
 **_Simulation of Shallow Water Equations in 2D_**<br> 
 [Animation](https://drive.google.com/file/d/1mOhYPZfRITfdnCt9LzPdC-n1_TyjI52L/view?usp=sharing) | [Documentation](https://drive.google.com/file/d/1XPVNlBi9ifQv_8kFykdFvEi11zvZ5w6i/view?usp=sharing) |  _Spring Quarter 2021_ <br>
 - Utilized an Arakawa C staggered grid (spatial discretization) and Forward-Backward scheme (time discretization) to construct a simulation of shallow water equations
 
-**Introduction to Research in Atmospheric and Oceanic Sciences (A&O SCI 90) Project** <br>
+**Introduction to Research in Atmospheric and Oceanic Sciences (UCLA A&O SCI 90) Project** <br>
 **_An Analysis of the Increase in the Global Mean Land-Ocean Temperature Contrast_**<br>
 [Project](https://drive.google.com/file/d/1MO9dGPT12zzM5KPEk6LlZSMF0C9-_VJw/view?usp=sharing) | _Winter Quarter 2021_ <br>
 - The mini research project attempted to determine whether the global mean land-ocean temperature contrast had increased within the last five years through statistical analysis of global temperature data.
