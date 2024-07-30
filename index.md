@@ -3,22 +3,22 @@ _Currently a PhD Candidate in the Dept. of Earth Sciences at Dartmouth, working 
 [Email](mailto:mansakrishna23@gmail.com) / [LinkedIn](https://www.linkedin.com/in/mansa-krishna-96682419b) / [GitHub](https://github.com/mansakrishna23) / [Blog](https://mansakrishna23.github.io/)
 
 ## Education
-**Dartmouth College** _(September 2022 - Present)_ <br>
+**Dartmouth College** (September 2022 - Present) <br>
 _**PhD Candidate, Dept. of Earth Sciences, Guarini School of Graduate and Advanced Studies**_ <br>
 _Member of the "Ice-Future" - Research Group, advised by Prof. Mathieu Morlighem._
 > **[Karthaus Summer School](https://www.projects.science.uu.nl/iceclimate/karthaus/index.php): Summer school on ice sheets and glaciers in the climate system** (May 2024) Intensive training on ice dynamics and ice-climate interactions.<br>
 > **Glaciology in Machine Learning Summer School ([GlaMacLeS](https://glamacles.github.io))** (June 2024) Robust training in various artificial intelligience architectures and their applications to glaciology.   
 
-**University of California, Los Angeles** _(September 2018 - June 2022)_ <br>
-_**B.S. Applied Mathematics, Specialization in Computing, Dept. of Mathematics**_ <br>
+**University of California, Los Angeles** (September 2018 - June 2022) <br>
+_**B.S. Applied Mathematics, Specialization in Computing**_ <br>
 _**History Minor**_ <br>
 Dean's Honors List _(Winter 2021, Spring 2021, Fall 2021, Winter 2022)_
 
-**NPS International School, Singapore** _(May 2018)_ <br>
+**NPS International School, Singapore** (May 2018) <br>
 _**International Baccalaureate (IB) Diploma** Overall Score: 41 / 45_ <br>
 _Mathematics (Higher-Level), Physics (Higher-Level), Chemistry (Higher-Level), English Language and Literature (Standard-Level), Hindi B (Standard-Level), Economics (Standard-Level)_
 
-**Singapore Indian Fine Arts Society** _(June 2018)_ <br>
+**Singapore Indian Fine Arts Society** (June 2018) <br>
 _**Diploma in Classical Indian Dance, Bharatanatyam**_<br>
 _Professionally trained in Bharatanatyam for eight years and awarded a diploma_
 
@@ -58,15 +58,14 @@ _**Undergraduate Research Scholar**_ | _October 2020 - June 2021_ <br>
 
 ## Publications
 **Research**:<br>
-_Krishna, M., Saide, P. E., Ye, X., Turney, F. A., Hair, J. W., Fenn, M., & Shingler, T. (2024). Evaluation of Wildfire Plume Injection Heights Estimated from Operational Weather Radar Observations Using Airborne Lidar Retrievals. Journal of Geophysical Research: Atmospheres, 129(9), e2023JD039926. [https://doi.org/10.1029/2023JD039926](https://doi.org/10.1029/2023JD039926)_
-
-_Saide, P. E., Krishna, M., Ye, X., Thapa, L. H., Turney, F., Howes, C., & Schmidt, C. C. (2023). Estimating Fire Radiative Power Using Weather Radar Products for Wildfires. Geophysical Research Letters, 50(21), e2023GL104824. [https://doi.org/10.1029/2023GL104824](https://doi.org/10.1029/2023GL104824)_
+Krishna, M., Saide, P. E., Ye, X., Turney, F. A., Hair, J. W., Fenn, M., & Shingler, T. (2024). Evaluation of Wildfire Plume Injection Heights Estimated from Operational Weather Radar Observations Using Airborne Lidar Retrievals. Journal of Geophysical Research: Atmospheres, 129(9), e2023JD039926. [https://doi.org/10.1029/2023JD039926](https://doi.org/10.1029/2023JD039926) <br>
+Saide, P. E., Krishna, M., Ye, X., Thapa, L. H., Turney, F., Howes, C., & Schmidt, C. C. (2023). Estimating Fire Radiative Power Using Weather Radar Products for Wildfires. Geophysical Research Letters, 50(21), e2023GL104824. [https://doi.org/10.1029/2023GL104824](https://doi.org/10.1029/2023GL104824)
 
 **Articles**<br>
-_[When to enroll in each class](https://stack.dailybruin.com/2021/02/05/class-fill-ups-2/)_ <br>
-_[Exploring UCLA’s journey to becoming a Hispanic-Serving Institution](https://stack.dailybruin.com/2021/05/11/student-demographic-hsis/)_ <br>
-_[Hollywood in Westwood: exploring filmography on the UCLA campus](https://stack.dailybruin.com/2021/06/09/ucla-filming-locations/)_ <br>
-_[Punctuality and popularity of public transit routes near UCLA’s campus](https://stack.dailybruin.com/2022/03/01/public-transit/)_
+[When to enroll in each class](https://stack.dailybruin.com/2021/02/05/class-fill-ups-2/) <br>
+[Exploring UCLA’s journey to becoming a Hispanic-Serving Institution](https://stack.dailybruin.com/2021/05/11/student-demographic-hsis/) <br>
+[Hollywood in Westwood: exploring filmography on the UCLA campus](https://stack.dailybruin.com/2021/06/09/ucla-filming-locations/) <br>
+[Punctuality and popularity of public transit routes near UCLA’s campus](https://stack.dailybruin.com/2022/03/01/public-transit/)
 
 ## Presentations
 **Northeast Glaciology Meeting (NEGM) 2024**<br>
