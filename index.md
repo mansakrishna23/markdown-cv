@@ -6,7 +6,7 @@ _Currently a PhD Candidate in the Dept. of Earth Sciences at Dartmouth, working 
 **Dartmouth College** _(September 2022 - Present)_ <br>
 _**PhD Candidate, Dept. of Earth Sciences, Guarini School of Graduate and Advanced Studies**_ <br>
 _Member of the "Ice-Future" - Research Group, advised by Prof. Mathieu Morlighem._
-> **Summer Schools** <br>
+> **Research Summer Schools** <br>
 > **[Karthaus Summer School](https://www.projects.science.uu.nl/iceclimate/karthaus/index.php): Summer school on ice sheets and glaciers in the climate system** (May 2024) Intensive training on ice dynamics and ice-climate interactions.<br>
 > **Glaciology in Machine Learning Summer School ([GlaMacLeS](https://glamacles.github.io))** (June 2024) Robust training in various artificial intelligience architectures and their applications to glaciology.   
 
