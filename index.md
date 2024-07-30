@@ -69,27 +69,27 @@ English _(Native)_, Hindi _(Fluent)_, Tamil _(Beginner, Spoken only)_
 ## Presentations
 **Northeast Glaciology Meeting (NEGM) 2024**<br>
 Oral Presentation | March 2024 <br>
-> Presented research (**_Title_**: Simultaneously Inferring Subglacial Topography and Basal Sliding with Physics Informed Machine Learning) at NEGM 2024, hosted at the Massachusetts Institute of Technology (MIT), in a 10-minute oral presentation.
+> Presented research (**_Title: Simultaneously Inferring Subglacial Topography and Basal Sliding with Physics Informed Machine Learning_**) at NEGM 2024, hosted at the Massachusetts Institute of Technology (MIT), in a 10-minute oral presentation.
 
 **American Geophysical Union (AGU) 2023**<br>
 e-Lightning Talk and Poster | [Abstract](https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1289845) | [Poster](https://agu23.ipostersessions.com/Default.aspx?s=65-AB-AE-77-CE-62-E8-20-5B-D6-0E-5E-A5-04-5F-00) | December 2023 <br>
-> Presented research (**_Title_**: Inferring Bed Topography from Ice Sheet Surface Features Using Physics Informed Machine Learning) at the Machine Learning and the Cryosphere: Data and Modeling III session.
+> Presented research (**_Title: Inferring Bed Topography from Ice Sheet Surface Features Using Physics Informed Machine Learning_**) at the Machine Learning and the Cryosphere: Data and Modeling III session.
 
 **Fire and Climate Conference: Impacts, Issues, and Futures**<br>
 Oral Presentation | May 2022 <br>
-> Presented undergraduate research (**_Title_**: Plume Injection Heights Estimated From Doppler Weather Radar Observations) at the Fire and Climate Conference, Pasadena, as an oral presentation in the Smoke Transport and Air Quality Session.
+> Presented undergraduate research (**_Title: Plume Injection Heights Estimated From Doppler Weather Radar Observations_**) at the Fire and Climate Conference, Pasadena, as an oral presentation in the Smoke Transport and Air Quality Session.
 
 **UCLA Undergraduate Research Week 2022 - Atmospheric and Environmental Science Showcase**<br>
 Presentation | May 2022 <br>
-> Presented undergraduate research (**_Title_**: Plume Injection Heights Estimated From Weather Radar Observations) as a live presentation, part of the 2022 UCLA Undergraduate Research Week Atmospheric and Environmental Science Showcase.
+> Presented undergraduate research (**_Title: Plume Injection Heights Estimated From Weather Radar Observations_**) as a live presentation, part of the 2022 UCLA Undergraduate Research Week Atmospheric and Environmental Science Showcase.
 
 **Meteorology and Climate - Modelling for Air Quality (MAC-MAQ) Conference, University of California - Davis**<br>
 Poster Presentation | [Abstract](https://macmaq.aqrc.ucdavis.edu/2021-program-content#Mansa_Krishna) | September 2021 <br>
-> Presented undergraduate research (**_Title_**: Fire Plume Injection Heights Estimated From Doppler Weather Radar Observations) at the MAC-MAQ Conference as a Lightning Talk and [Poster Presentation](https://drive.google.com/file/d/1LP33CvY-9QxeG6uVAMulJmDngSBbXS1L/view?usp=sharing).
+> Presented undergraduate research (**_Title: Fire Plume Injection Heights Estimated From Doppler Weather Radar Observations_**) at the MAC-MAQ Conference as a Lightning Talk and [Poster Presentation](https://drive.google.com/file/d/1LP33CvY-9QxeG6uVAMulJmDngSBbXS1L/view?usp=sharing).
 
 **UCLA Undergraduate Research Week 2021 - Atmospheric and Environmental Science Showcase**<br>
 Presentation | [Presentation Link](https://www.youtube.com/watch?v=ZgUGZrOEU7E) | May 2021 <br>
-> Presented undergraduate research (**_Title_**: Plume Injection Heights Estimated From Weather Radar Observations) as part of the 2021 UCLA Undergraduate Research Week Atmospheric and Environmental Science Showcase.
+> Presented undergraduate research (**_Title: Plume Injection Heights Estimated From Weather Radar Observations_**) as part of the 2021 UCLA Undergraduate Research Week Atmospheric and Environmental Science Showcase.
 
 ## Work Experience
 **[The Stack](https://stack.dailybruin.com/), Daily Bruin (UCLA Student Media)** <br>
