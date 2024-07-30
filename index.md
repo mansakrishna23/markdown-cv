@@ -143,37 +143,40 @@ _**Designation of Honorable Mention**_ <br>
 _Participated in a team of three (from UCLA), proposed a solution to an open-ended data insights problem_
 
 ## Mini Research Projects
+**Glaciology in Machine Learning Summer School Group Project**
+Physics-Informed Neural Networks for Inferring Ice Viscosity | June 2024 <br>
+> Collaborated on a glacier hydrology modeling project, with project advisor Dr. Ching Yao-Lai (Stanford University).
+> ...
+
+**Karthaus Summer School Group Project**
+Glacier Hydrology Modeling | May 2024 <br>
+> Collaborated on a glacier hydrology modeling project, with project advisor Dr. Ian Hewitt (Oxford University).
+> ...
+
 **Geophysical Fluid Dynamics (Dartmouth ENGG 199.12) Final Project** <br>
-*Mathematical Modeling of Suspended Biomass Burning Debris* <br>
-Spring Quarter 2023
-> Attempted to take a closer look at some of my undergraduate research. Developed a mathematical model (with the help of my professor) to better understand how smoke aerosols and suspended debris would behave in the atmosphere for longer timescales.  
+Mathematical Modeling of Suspended Biomass Burning Debris | Spring Quarter 2023 <br>
+> Attempted to take a closer look at some of my undergraduate research. Developed a simple mathematical model (with the help of my professor) to better understand how smoke aerosols and suspended debris would behave in the atmosphere for longer timescales.  
 
 **Numerical Modeling of Glacier and Ice Sheet Dynamics (Dartmouth ENGG 199.13) Final Project** <br>
-*Mesh Resolution vs. Bed Resolution* <br>
-Spring Quarter 2023
+Mesh Resolution vs. Bed Resolution | Spring Quarter 2023 <br>
 > Worked on an individual final project that involved solving for the evolution of ice with the Ice-sheet and Sea-level system model (ISSM) whilst varying the bed topography resolution and the mesh resolution. The study centered around seeing whether the evolution of ice was more affected by the modeling mesh or the resolution of the data itself. 
 
 **Math Modeling of Earth Sciences (Dartmouth EARS 107) Final Project** <br>
-*Shallow Shelf Approximation using the Finite Element Method* <br>
-[GitHub Link to MATLAB Code](https://github.com/mansakrishna23/SSA-ML/blob/main/ssa2.m) | Fall Quarter 2022 <br>
+Shallow Shelf Approximation using the Finite Element Method | [GitHub Link to MATLAB Code](https://github.com/mansakrishna23/SSA-ML/blob/main/ssa2.m) | Fall Quarter 2022 <br>
 > Worked on an individual final project that involved solving the shallow shelf approximation numerically using the final element method for a simple 2D floating ice shelf. 
 
 **Machine Learning (UCLA Math 156) Group Project**<br>
-*Sentiment Analysis of Movie Reviews* <br> 
-[GitHub Repository](https://github.com/mansakrishna23/Sentiment-Analysis-Movie-Recommendations) | [Project](https://drive.google.com/file/d/1VqPxQbbuvg_dehOGu6WjFx4b6GEwderQ/view?usp=sharing) | Fall Quarter 2021 <br>
+Sentiment Analysis of Movie Reviews | [GitHub Repository](https://github.com/mansakrishna23/Sentiment-Analysis-Movie-Recommendations) | [Project](https://drive.google.com/file/d/1VqPxQbbuvg_dehOGu6WjFx4b6GEwderQ/view?usp=sharing) | Fall Quarter 2021 <br>
 > Collaborated on a machine learning project that aims to classify textual data (i.e., movie reviews) according to their associated sentiment (i.e., positive or negative sentiments)
 
 **Python with Applications II (UCLA PIC 16B) Group Project**<br> 
-*Sign Language Translation* <br>
-[GitHub Repository](https://github.com/pfflanders/Sign-Language-Translation) | Fall Quarter 2021 <br>
+Sign Language Translation | [GitHub Repository](https://github.com/pfflanders/Sign-Language-Translation) | Fall Quarter 2021 <br>
 > Collaborating on a Machine Learning project that aims to provide a live translation of sign languages by creating a convolutional neural network (CNN).
 
 **Numerical Methods in Atmospheric Science (UCLA A&O SCI 180) Project**<br>
-*Simulation of Shallow Water Equations in 2D* <br> 
-[Animation](https://drive.google.com/file/d/1mOhYPZfRITfdnCt9LzPdC-n1_TyjI52L/view?usp=sharing) | [Documentation](https://drive.google.com/file/d/1XPVNlBi9ifQv_8kFykdFvEi11zvZ5w6i/view?usp=sharing) |  Spring Quarter 2021 <br>
+Simulation of Shallow Water Equations in 2D | [Animation](https://drive.google.com/file/d/1mOhYPZfRITfdnCt9LzPdC-n1_TyjI52L/view?usp=sharing) | [Documentation](https://drive.google.com/file/d/1XPVNlBi9ifQv_8kFykdFvEi11zvZ5w6i/view?usp=sharing) |  Spring Quarter 2021 <br>
 > Utilized an Arakawa C staggered grid (spatial discretization) and Forward-Backward scheme (time discretization) to construct a simulation of shallow water equations
 
 **Introduction to Research in Atmospheric and Oceanic Sciences (UCLA A&O SCI 90) Project** <br>
-*An Analysis of the Increase in the Global Mean Land-Ocean Temperature Contrast* <br>
-[Project](https://drive.google.com/file/d/1MO9dGPT12zzM5KPEk6LlZSMF0C9-_VJw/view?usp=sharing) | Winter Quarter 2021 <br>
+An Analysis of the Increase in the Global Mean Land-Ocean Temperature Contrast | [Project](https://drive.google.com/file/d/1MO9dGPT12zzM5KPEk6LlZSMF0C9-_VJw/view?usp=sharing) | Winter Quarter 2021 <br>
 > The mini research project attempted to determine whether the global mean land-ocean temperature contrast had increased within the last five years through statistical analysis of global temperature data.
