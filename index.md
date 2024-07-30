@@ -1,14 +1,16 @@
-_Currently a PhD student of Earth Sciences at Dartmouth, working with Dr. Mathieu Morlighem. Previously an undergraduate researcher with Dr. Pablo Saide at UCLA. My primary research interests include modeling, numerical methods, and machine learning in the cryospheric sciences._
+_Currently a PhD Candidate in the Dept. of Earth Sciences at Dartmouth, working with Dr. Mathieu Morlighem. Previously an undergraduate researcher with Dr. Pablo Saide at UCLA. My primary research interests include math modeling, numerical methods, and machine learning in the cryospheric sciences._
 
 [Email](mailto:mansakrishna23@gmail.com) / [LinkedIn](https://www.linkedin.com/in/mansa-krishna-96682419b) / [GitHub](https://github.com/mansakrishna23) / [Blog](https://mansakrishna23.github.io/)
 
 ## Education
 **Dartmouth College** _(September 2022 - Present)_ <br>
-_**PhD Graduate Program in Earth Sciences**_ <br>
-_Research project on inferring the bed topography beneath ice sheets using physics informed machine learning._
+_**PhD Candidate, Dept. of Earth Sciences, Guarini School of Graduate and Advanced Studies**_ <br>
+_Part of the "Ice-Future" - Research Group, advised by Prof. Mathieu Morlighem._
+* **[Karthaus Summer School](https://www.projects.science.uu.nl/iceclimate/karthaus/index.php): Summer school on ice sheets and glaciers in the climate system** (May 2024) | Intensive training on ice dynamics and ice-climate interactions.  
+* **Glaciology in Machine Learning Summer School ([GlaMacLeS](https://glamacles.github.io))** (June 2024) | Robust training in various artificial intelligience architectures and their applications to glaciology.   
 
 **University of California, Los Angeles** _(September 2018 - June 2022)_ <br>
-_**B.S. Applied Mathematics, Specialization in Computing**_ <br>
+_**B.S. Applied Mathematics, Specialization in Computing, Dept. of Mathematics**_ <br>
 _**History Minor**_ <br>
 Dean's Honors List _(Winter 2021, Spring 2021, Fall 2021, Winter 2022)_
 
@@ -40,7 +42,7 @@ English _(Native)_, Hindi _(Fluent)_, Tamil _(Beginner, Spoken only)_
 
 ## Research
 **"Ice Future" - Research Group, Dartmouth College** | [Webpage](https://icefuture.org/) <br>
-**_PhD Student_** | _September 2022 - Present_ <br>
+**_PhD Candidate** | _September 2022 - Present_ <br>
 - Working with Dr. Mathieu Morlighem, Dept. of Earth Sciences, Dartmouth College
 - Developing physics-informed machine learning models to infer ice sheet bed topography using ice sheet surface features
 
@@ -56,9 +58,9 @@ _**Undergraduate Research Scholar**_ | _October 2020 - June 2021_ <br>
 
 ## Publications
 **Research**:<br>
-_Saide, P. E., Krishna, M., Ye, X., Thapa, L. H., Turney, F., Howes, C., & Schmidt, C. C. (2023). Estimating Fire Radiative Power Using Weather Radar Products for Wildfires. Geophysical Research Letters, 50(21), e2023GL104824. [https://doi.org/10.1029/2023GL104824](https://doi.org/10.1029/2023GL104824)_
+Krishna, M., Saide, P. E., Ye, X., Turney, F. A., Hair, J. W., Fenn, M., & Shingler, T. (2024). Evaluation of Wildfire Plume Injection Heights Estimated from Operational Weather Radar Observations Using Airborne Lidar Retrievals. Journal of Geophysical Research: Atmospheres, 129(9), e2023JD039926. https://doi.org/10.1029/2023JD039926
 
-_Krishna, M., Saide, P. E., Ye, X., Turney, F., Hair, J. W., Fenn, M., & Shingler, T. (n.d.). Evaluation of plume injection heights estimated from operational weather radar observations. **(Submitted, under review)**. Preprint available at: [https://essopenarchive.org/doi/full/10.22541/essoar.169447401.10794597/v1](https://essopenarchive.org/doi/full/10.22541/essoar.169447401.10794597/v1)_
+Saide, P. E., Krishna, M., Ye, X., Thapa, L. H., Turney, F., Howes, C., & Schmidt, C. C. (2023). Estimating Fire Radiative Power Using Weather Radar Products for Wildfires. Geophysical Research Letters, 50(21), e2023GL104824. https://doi.org/10.1029/2023GL104824
 
 **Articles**<br>
 _When to enroll in each class_, [Link](https://stack.dailybruin.com/2021/02/05/class-fill-ups-2/) <br>
@@ -67,7 +69,11 @@ _Hollywood in Westwood: exploring filmography on the UCLA campus_, [Link](https:
 _Punctuality and popularity of public transit routes near UCLA’s campus_, [Link](https://stack.dailybruin.com/2022/03/01/public-transit/)
 
 ## Presentations
-**American Geophysical Union**<br>
+**Northeast Glaciology Meeting (NEGM) 2024**<br>
+_**Oral Presentation**_ | _March 2024_ <br>
+- Presented research (**_Title_**: Simultaneously Inferring Subglacial Topography and Basal Sliding with Physics Informed Machine Learning) at NEGM 2024, hosted at the Massachusetts Institute of Technology (MIT), in a 10-minute oral presentation.
+
+**American Geophysical Union (AGU) 2023**<br>
 _**e-Lightning Talk and Poster**_ | [Abstract](https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1289845) | [Poster](https://agu23.ipostersessions.com/Default.aspx?s=65-AB-AE-77-CE-62-E8-20-5B-D6-0E-5E-A5-04-5F-00) | _December 2023_ <br>
 - Presented research (**_Title_**: Inferring Bed Topography from Ice Sheet Surface Features Using Physics Informed Machine Learning) at the Machine Learning and the Cryosphere: Data and Modeling III session.
 
@@ -87,7 +93,6 @@ _**Poster Presenter**_ | [Abstract](https://macmaq.aqrc.ucdavis.edu/2021-program
 _**Presenter**_ | [Presentation Link](https://www.youtube.com/watch?v=ZgUGZrOEU7E) | _May 2021_ <br>
 - Presented year-long research project (**_Title_**: Plume Injection Heights Estimated From Weather Radar Observations) as part of the 2021 UCLA Undergraduate Research Week Atmospheric and Environmental Science Showcase
 
-
 ## Work Experience
 **The Stack, Daily Bruin (UCLA Student Media)**<br>
 **_Data Journalist_** | [The Stack Page](https://stack.dailybruin.com/) | _October 2020 - Present_ <br>
@@ -103,6 +108,9 @@ _**Data Science Intern**_ | _July 2021 - September 2021_ <br>
 - Developed algorithms using unsupervised machine learning and statistical methods to detect anomalies in medical respiratory data
 
 ## Teaching Experience
+**Hackweek, University of Washington** | August 2024<br>
+- OT hackweek helper stuff. 
+
 **Reproducible Research Training, Dartmouth** | _April 2023 - October 2023_ <br>
 **_Volunteer Learning Assistant_** <br>
 - Volunteering with Research Data Services team at Dartmouth College to help facilitate learning in computer programming workshops, including Python and Machine Learning workshops.
@@ -141,7 +149,7 @@ _August 2019 - September 2019_<br>
 _**Designation of Honorable Mention**_ <br>
 _Participated in a team of three (from UCLA), proposed a solution to an open-ended data insights problem_
 
-## University Coursework and Projects
+## Relevant University Coursework and Mini Research Projects
 **Machine Learning (Math 156) Group Project**<br>
 **_Sentiment Analysis of Movie Reviews_**<br> 
 [GitHub Repository](https://github.com/mansakrishna23/Sentiment-Analysis-Movie-Recommendations) | [Project](https://drive.google.com/file/d/1VqPxQbbuvg_dehOGu6WjFx4b6GEwderQ/view?usp=sharing) | _Fall Quarter 2021_ <br>
