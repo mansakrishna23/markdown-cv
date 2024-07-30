@@ -45,6 +45,11 @@ English _(Native)_, Hindi _(Fluent)_, Tamil _(Beginner, Spoken only)_
 > Working with PhD advisor, Dr. Mathieu Morlighem, Dept. of Earth Sciences, Dartmouth College. <br>
 > Developing physics-informed machine learning models to infer ice sheet bed topography using ice sheet surface features.
 
+**Physics Informed Neural Networks for Ice and CLimatE ([PINNICLE](https://github.com/ISSMteam/PINNICLE))** <br>
+**Developer** | January 2024 - Present <br>
+> Working with Cheng Gong and Mathieu Morlighem on developing the open-source Python package, PINNICLE.
+> The Python package catered towards training and deploying physics-informed neural networks specifically for ice-sheet and climate research.  
+
 **[Pablo Saide Research Group](https://dept.atmos.ucla.edu/saide/home), UCLA** <br>
 **Undergraduate Researcher** | October 2020 - June 2022 <br>
 > Collaborating on a research project with Dr. Pablo Saide, Dept. of Atmospheric and Oceanic Sciences, UCLA. <br>
@@ -144,22 +149,14 @@ _Participated in a team of three (from UCLA), proposed a solution to an open-end
 
 ## Mini Research Projects
 **Glaciology in Machine Learning Summer School Group Project**
-Physics-Informed Neural Networks for Inferring Ice Viscosity | June 2024 <br>
-> Collaborated on a glacier hydrology modeling project, with project advisor Dr. Ching Yao-Lai (Stanford University).
-> ...
+Inverting for viscosity (with sparse ice thickness) ft. PINNs | June 2024 <br>
+> Collaborated on a physics-informed machine learning group project, with project advisor Dr. Ching-Yao Lai (Stanford University).
+> Worked on implementing a physics-informed neural network to infer the spatially-variable ice viscosity for a floating ice shelf; we used sparse ice thickness values in our inversion that was representative of the sparse ground-truth ice thickness data.
 
 **Karthaus Summer School Group Project**
 Glacier Hydrology Modeling | May 2024 <br>
-> Collaborated on a glacier hydrology modeling project, with project advisor Dr. Ian Hewitt (Oxford University).
-> ...
-
-**Geophysical Fluid Dynamics (Dartmouth ENGG 199.12) Final Project** <br>
-Mathematical Modeling of Suspended Biomass Burning Debris | Spring Quarter 2023 <br>
-> Attempted to take a closer look at some of my undergraduate research. Developed a simple mathematical model (with the help of my professor) to better understand how smoke aerosols and suspended debris would behave in the atmosphere for longer timescales.  
-
-**Numerical Modeling of Glacier and Ice Sheet Dynamics (Dartmouth ENGG 199.13) Final Project** <br>
-Mesh Resolution vs. Bed Resolution | Spring Quarter 2023 <br>
-> Worked on an individual final project that involved solving for the evolution of ice with the Ice-sheet and Sea-level system model (ISSM) whilst varying the bed topography resolution and the mesh resolution. The study centered around seeing whether the evolution of ice was more affected by the modeling mesh or the resolution of the data itself. 
+> Collaborated on a glacier hydrology modeling group project, with project advisor Dr. Ian Hewitt (Oxford University).
+> Explored the effect of varying the volume of supraglacial water input to the subglacial hydrological system and the effect of the bed topography on the ice sheet velocity. 
 
 **Math Modeling of Earth Sciences (Dartmouth EARS 107) Final Project** <br>
 Shallow Shelf Approximation using the Finite Element Method | [GitHub Link to MATLAB Code](https://github.com/mansakrishna23/SSA-ML/blob/main/ssa2.m) | Fall Quarter 2022 <br>
