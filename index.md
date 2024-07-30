@@ -1,6 +1,6 @@
 _Currently a PhD Candidate in the Dept. of Earth Sciences at Dartmouth, working with Dr. Mathieu Morlighem. Previously an undergraduate researcher with Dr. Pablo Saide at UCLA. My primary research interests include math modeling, numerical methods, and machine learning in the cryospheric sciences._
 
-[Email](mailto:mansakrishna23@gmail.com) / [LinkedIn](https://www.linkedin.com/in/mansa-krishna-96682419b) / [GitHub](https://github.com/mansakrishna23) / [Blog](https://mansakrishna23.github.io/)
+[Email](mailto:mansa.krishna.gr@dartmouth.edu) / [GitHub](https://github.com/mansakrishna23) / [Blog](https://mansakrishna23.github.io/)
 
 ## Education
 **Dartmouth College** (September 2022 - Present) <br>
