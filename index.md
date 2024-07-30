@@ -58,14 +58,14 @@ _**Undergraduate Research Scholar**_ | _October 2020 - June 2021_ <br>
 
 ## Publications
 **Research**:<br>
-Krishna, M., Saide, P. E., Ye, X., Turney, F. A., Hair, J. W., Fenn, M., & Shingler, T. (2024). Evaluation of Wildfire Plume Injection Heights Estimated from Operational Weather Radar Observations Using Airborne Lidar Retrievals. Journal of Geophysical Research: Atmospheres, 129(9), e2023JD039926. [https://doi.org/10.1029/2023JD039926](https://doi.org/10.1029/2023JD039926) <br>
-Saide, P. E., Krishna, M., Ye, X., Thapa, L. H., Turney, F., Howes, C., & Schmidt, C. C. (2023). Estimating Fire Radiative Power Using Weather Radar Products for Wildfires. Geophysical Research Letters, 50(21), e2023GL104824. [https://doi.org/10.1029/2023GL104824](https://doi.org/10.1029/2023GL104824)
+- Krishna, M., Saide, P. E., Ye, X., Turney, F. A., Hair, J. W., Fenn, M., & Shingler, T. (2024). Evaluation of Wildfire Plume Injection Heights Estimated from Operational Weather Radar Observations Using Airborne Lidar Retrievals. Journal of Geophysical Research: Atmospheres, 129(9), e2023JD039926. [https://doi.org/10.1029/2023JD039926](https://doi.org/10.1029/2023JD039926) <br>
+- Saide, P. E., Krishna, M., Ye, X., Thapa, L. H., Turney, F., Howes, C., & Schmidt, C. C. (2023). Estimating Fire Radiative Power Using Weather Radar Products for Wildfires. Geophysical Research Letters, 50(21), e2023GL104824. [https://doi.org/10.1029/2023GL104824](https://doi.org/10.1029/2023GL104824)
 
 **Articles**<br>
-[When to enroll in each class](https://stack.dailybruin.com/2021/02/05/class-fill-ups-2/) <br>
-[Exploring UCLA’s journey to becoming a Hispanic-Serving Institution](https://stack.dailybruin.com/2021/05/11/student-demographic-hsis/) <br>
-[Hollywood in Westwood: exploring filmography on the UCLA campus](https://stack.dailybruin.com/2021/06/09/ucla-filming-locations/) <br>
-[Punctuality and popularity of public transit routes near UCLA’s campus](https://stack.dailybruin.com/2022/03/01/public-transit/)
+- [When to enroll in each class](https://stack.dailybruin.com/2021/02/05/class-fill-ups-2/) <br>
+- [Exploring UCLA’s journey to becoming a Hispanic-Serving Institution](https://stack.dailybruin.com/2021/05/11/student-demographic-hsis/) <br>
+- [Hollywood in Westwood: exploring filmography on the UCLA campus](https://stack.dailybruin.com/2021/06/09/ucla-filming-locations/) <br>
+- [Punctuality and popularity of public transit routes near UCLA’s campus](https://stack.dailybruin.com/2022/03/01/public-transit/)
 
 ## Presentations
 **Northeast Glaciology Meeting (NEGM) 2024**<br>
