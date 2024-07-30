@@ -47,7 +47,7 @@ English _(Native)_, Hindi _(Fluent)_, Tamil _(Beginner, Spoken only)_
 
 **Physics Informed Neural Networks for Ice and CLimatE ([PINNICLE](https://github.com/ISSMteam/PINNICLE))** <br>
 **Developer** | January 2024 - Present <br>
-> Working with Cheng Gong and Mathieu Morlighem on developing the open-source Python package, PINNICLE. This package is catered towards training and deploying physics-informed neural networks specifically for ice-sheet and climate research.  
+> Working with Cheng Gong and Mathieu Morlighem on developing the open-source Python package, PINNICLE. This package is catered towards training and deploying physics-informed neural networks specifically for ice and climate research.  
 
 **[Pablo Saide Research Group](https://dept.atmos.ucla.edu/saide/home), UCLA** <br>
 **Undergraduate Researcher** | October 2020 - June 2022 <br>
