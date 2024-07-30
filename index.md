@@ -6,6 +6,7 @@ _Currently a PhD Candidate in the Dept. of Earth Sciences at Dartmouth, working 
 **Dartmouth College** _(September 2022 - Present)_ <br>
 _**PhD Candidate, Dept. of Earth Sciences, Guarini School of Graduate and Advanced Studies**_ <br>
 _Part of the "Ice-Future" - Research Group, advised by Prof. Mathieu Morlighem._
+> **Summer Schools**
 > **[Karthaus Summer School](https://www.projects.science.uu.nl/iceclimate/karthaus/index.php): Summer school on ice sheets and glaciers in the climate system** (May 2024) | Intensive training on ice dynamics and ice-climate interactions.  
 > **Glaciology in Machine Learning Summer School ([GlaMacLeS](https://glamacles.github.io))** (June 2024) | Robust training in various artificial intelligience architectures and their applications to glaciology.   
 
@@ -58,9 +59,9 @@ _**Undergraduate Research Scholar**_ | _October 2020 - June 2021_ <br>
 
 ## Publications
 **Research**:<br>
-Krishna, M., Saide, P. E., Ye, X., Turney, F. A., Hair, J. W., Fenn, M., & Shingler, T. (2024). Evaluation of Wildfire Plume Injection Heights Estimated from Operational Weather Radar Observations Using Airborne Lidar Retrievals. Journal of Geophysical Research: Atmospheres, 129(9), e2023JD039926. https://doi.org/10.1029/2023JD039926
+_Krishna, M., Saide, P. E., Ye, X., Turney, F. A., Hair, J. W., Fenn, M., & Shingler, T. (2024). Evaluation of Wildfire Plume Injection Heights Estimated from Operational Weather Radar Observations Using Airborne Lidar Retrievals. Journal of Geophysical Research: Atmospheres, 129(9), e2023JD039926. https://doi.org/10.1029/2023JD039926_
 
-Saide, P. E., Krishna, M., Ye, X., Thapa, L. H., Turney, F., Howes, C., & Schmidt, C. C. (2023). Estimating Fire Radiative Power Using Weather Radar Products for Wildfires. Geophysical Research Letters, 50(21), e2023GL104824. https://doi.org/10.1029/2023GL104824
+_Saide, P. E., Krishna, M., Ye, X., Thapa, L. H., Turney, F., Howes, C., & Schmidt, C. C. (2023). Estimating Fire Radiative Power Using Weather Radar Products for Wildfires. Geophysical Research Letters, 50(21), e2023GL104824. https://doi.org/10.1029/2023GL104824_
 
 **Articles**<br>
 _When to enroll in each class_, [Link](https://stack.dailybruin.com/2021/02/05/class-fill-ups-2/) <br>
@@ -71,27 +72,27 @@ _Punctuality and popularity of public transit routes near UCLA’s campus_, [Lin
 ## Presentations
 **Northeast Glaciology Meeting (NEGM) 2024**<br>
 _**Oral Presentation**_ | _March 2024_ <br>
-- Presented research (**_Title_**: Simultaneously Inferring Subglacial Topography and Basal Sliding with Physics Informed Machine Learning) at NEGM 2024, hosted at the Massachusetts Institute of Technology (MIT), in a 10-minute oral presentation.
+> Presented research (**_Title_**: Simultaneously Inferring Subglacial Topography and Basal Sliding with Physics Informed Machine Learning) at NEGM 2024, hosted at the Massachusetts Institute of Technology (MIT), in a 10-minute oral presentation.
 
 **American Geophysical Union (AGU) 2023**<br>
 _**e-Lightning Talk and Poster**_ | [Abstract](https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1289845) | [Poster](https://agu23.ipostersessions.com/Default.aspx?s=65-AB-AE-77-CE-62-E8-20-5B-D6-0E-5E-A5-04-5F-00) | _December 2023_ <br>
-- Presented research (**_Title_**: Inferring Bed Topography from Ice Sheet Surface Features Using Physics Informed Machine Learning) at the Machine Learning and the Cryosphere: Data and Modeling III session.
+> Presented research (**_Title_**: Inferring Bed Topography from Ice Sheet Surface Features Using Physics Informed Machine Learning) at the Machine Learning and the Cryosphere: Data and Modeling III session.
 
 **Fire and Climate Conference: Impacts, Issues, and Futures**<br>
 _**Presenter**_ | _May 2022_ <br>
-- Presented research (**_Title_**: Plume Injection Heights Estimated From Doppler Weather Radar Observations) at the Fire and Climate Conference, Pasadena, as an oral presentation in the Smoke Transport and Air Quality Session.
+> Presented research (**_Title_**: Plume Injection Heights Estimated From Doppler Weather Radar Observations) at the Fire and Climate Conference, Pasadena, as an oral presentation in the Smoke Transport and Air Quality Session.
 
 **UCLA Undergraduate Research Week 2022 - Atmospheric and Environmental Science Showcase**<br>
 _**Presenter**_ | _May 2022_ <br>
-- Presented research project (**_Title_**: Plume Injection Heights Estimated From Weather Radar Observations) as a live presentation, part of the 2022 UCLA Undergraduate Research Week Atmospheric and Environmental Science Showcase
+> Presented research project (**_Title_**: Plume Injection Heights Estimated From Weather Radar Observations) as a live presentation, part of the 2022 UCLA Undergraduate Research Week Atmospheric and Environmental Science Showcase
 
 **Meteorology and Climate - Modelling for Air Quality (MAC-MAQ) Conference, University of California - Davis**<br>
 _**Poster Presenter**_ | [Abstract](https://macmaq.aqrc.ucdavis.edu/2021-program-content#Mansa_Krishna) | _September 2021_<br>
-- Presented research project (**_Title_**: Fire Plume Injection Heights Estimated From Doppler Weather Radar Observations) at the MAC-MAQ Conference as a Lightning Talk and [Poster Presentation](https://drive.google.com/file/d/1LP33CvY-9QxeG6uVAMulJmDngSBbXS1L/view?usp=sharing).
+> Presented research project (**_Title_**: Fire Plume Injection Heights Estimated From Doppler Weather Radar Observations) at the MAC-MAQ Conference as a Lightning Talk and [Poster Presentation](https://drive.google.com/file/d/1LP33CvY-9QxeG6uVAMulJmDngSBbXS1L/view?usp=sharing).
 
 **UCLA Undergraduate Research Week 2021 - Atmospheric and Environmental Science Showcase**<br>
 _**Presenter**_ | [Presentation Link](https://www.youtube.com/watch?v=ZgUGZrOEU7E) | _May 2021_ <br>
-- Presented year-long research project (**_Title_**: Plume Injection Heights Estimated From Weather Radar Observations) as part of the 2021 UCLA Undergraduate Research Week Atmospheric and Environmental Science Showcase
+> Presented year-long research project (**_Title_**: Plume Injection Heights Estimated From Weather Radar Observations) as part of the 2021 UCLA Undergraduate Research Week Atmospheric and Environmental Science Showcase
 
 ## Work Experience
 **The Stack, Daily Bruin (UCLA Student Media)**<br>
