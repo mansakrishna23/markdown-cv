@@ -42,17 +42,17 @@ Word, Excel, PowerPoint, Outlook
 English _(Native)_, Hindi _(Fluent)_, Tamil _(Beginner, Spoken only)_
 
 ## Research
-**"Ice Future" - Research Group, Dartmouth College** | [Webpage](https://icefuture.org/) <br>
+**["Ice Future" - Research Group](https://icefuture.org/), Dept. of Earth Sciences, Dartmouth College** <br>
 **_PhD Candidate_** | _September 2022 - Present_ <br>
-- Working with Dr. Mathieu Morlighem, Dept. of Earth Sciences, Dartmouth College
+- Working with PhD advisor, Dr. Mathieu Morlighem, Dept. of Earth Sciences, Dartmouth College
 - Developing physics-informed machine learning models to infer ice sheet bed topography using ice sheet surface features
 
-**Pablo Saide Research Group, UCLA** | [Webpage](https://dept.atmos.ucla.edu/saide/home) <br>
+**[Pablo Saide Research Group](https://dept.atmos.ucla.edu/saide/home), UCLA** <br>
 **_Undergraduate Researcher_** | _October 2020 - June 2022_ <br>
 - Collaborating on a research project with Dr. Pablo Saide, Dept. of Atmospheric and Oceanic Sciences, UCLA
 - Investigating Doppler Radar data to retrieve fire plume injection heights for the purpose of evaluating air quality and high-resolution fire spread models
 
-**Sustainable LA Grand Challenge Undergraduate Research Scholars Program** | [Webpage](https://grandchallenges.ucla.edu/sustainable-la/) <br>
+**[Sustainable LA Grand Challenge](https://grandchallenges.ucla.edu/sustainable-la/) Undergraduate Research Scholars Program** <br>
 _**Undergraduate Research Scholar**_ | _October 2020 - June 2021_ <br>
 - Worked on a group research project with Bonny Bentzin (Deputy Chief Sustainability Officer, Institute of the Environment and Sustainability, UCLA) and Dr. Rebecca Shipe (Department of Ecology and Evolutionary Biology, UCLA) as mentors
 - Investigated the feasibility of implementing a geothermal system for UCLA's North Campus' heating and cooling needs for the purpose of energy conservation
@@ -97,16 +97,16 @@ _**Presenter**_ | [Presentation Link](https://www.youtube.com/watch?v=ZgUGZrOEU7
 ## Work Experience
 **The Stack, Daily Bruin (UCLA Student Media)**<br>
 **_Data Journalist_** | [The Stack Page](https://stack.dailybruin.com/) | _October 2020 - Present_ <br>
-- Building digital stories with The Stack, Daily Bruin (UCLA's student-run publication)
-- Investigating public data, experimenting with technology, and applying quantitative insights to the real world at The Stack (Daily Bruin's data journalism and newsroom tech blog)
+> Building digital stories with The Stack, Daily Bruin (UCLA's student-run publication)
+> Investigating public data, experimenting with technology, and applying quantitative insights to the real world at The Stack (Daily Bruin's data journalism and newsroom tech blog)
 
 **Anthem, Inc., United States**<br>
 _**Data Science Intern**_ | _July 2021 - September 2021_ <br>
-- Developed a collinearity reduction and feature selection algorithm to create robust training data for machine learning models using principal component analysis
+* Developed a collinearity reduction and feature selection algorithm to create robust training data for machine learning models using principal component analysis
 
 **Visseiro Digital Healthcare, Germany**<br>
 **_Data Science e-Intern_** | _June 2020 - August 2020_ <br>
-- Developed algorithms using unsupervised machine learning and statistical methods to detect anomalies in medical respiratory data
+* Developed algorithms using unsupervised machine learning and statistical methods to detect anomalies in medical respiratory data
 
 ## Teaching Experience
 **Hackweek, University of Washington** | August 2024<br>
