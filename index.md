@@ -64,10 +64,10 @@ _Krishna, M., Saide, P. E., Ye, X., Turney, F. A., Hair, J. W., Fenn, M., & Shin
 _Saide, P. E., Krishna, M., Ye, X., Thapa, L. H., Turney, F., Howes, C., & Schmidt, C. C. (2023). Estimating Fire Radiative Power Using Weather Radar Products for Wildfires. Geophysical Research Letters, 50(21), e2023GL104824. https://doi.org/10.1029/2023GL104824_
 
 **Articles**<br>
-_When to enroll in each class_, [Link](https://stack.dailybruin.com/2021/02/05/class-fill-ups-2/) <br>
-_Exploring UCLA’s journey to becoming a Hispanic-Serving Institution_, [Link](https://stack.dailybruin.com/2021/05/11/student-demographic-hsis/) <br>
-_Hollywood in Westwood: exploring filmography on the UCLA campus_, [Link](https://stack.dailybruin.com/2021/06/09/ucla-filming-locations/) <br>
-_Punctuality and popularity of public transit routes near UCLA’s campus_, [Link](https://stack.dailybruin.com/2022/03/01/public-transit/)
+_[When to enroll in each class](https://stack.dailybruin.com/2021/02/05/class-fill-ups-2/)_ <br>
+_[Exploring UCLA’s journey to becoming a Hispanic-Serving Institution](https://stack.dailybruin.com/2021/05/11/student-demographic-hsis/)_ <br>
+_[Hollywood in Westwood: exploring filmography on the UCLA campus](https://stack.dailybruin.com/2021/06/09/ucla-filming-locations/)_ <br>
+_[Punctuality and popularity of public transit routes near UCLA’s campus](https://stack.dailybruin.com/2022/03/01/public-transit/)_
 
 ## Presentations
 **Northeast Glaciology Meeting (NEGM) 2024**<br>
@@ -95,8 +95,8 @@ _**Presenter**_ | [Presentation Link](https://www.youtube.com/watch?v=ZgUGZrOEU7
 > Presented undergraduate research (**_Title_**: Plume Injection Heights Estimated From Weather Radar Observations) as part of the 2021 UCLA Undergraduate Research Week Atmospheric and Environmental Science Showcase.
 
 ## Work Experience
-**The Stack, Daily Bruin (UCLA Student Media)**<br>
-**_Data Journalist_** | [The Stack Page](https://stack.dailybruin.com/) | _October 2020 - Present_ <br>
+**[The Stack](https://stack.dailybruin.com/), Daily Bruin (UCLA Student Media)** <br>
+**_Data Journalist_** | _October 2020 - Present_ <br>
 > Building digital stories with The Stack, Daily Bruin (UCLA's student-run publication). <br>
 > Investigating public data, experimenting with technology, and applying quantitative insights to the real world at The Stack (Daily Bruin's data journalism and newsroom tech blog).
 
@@ -122,7 +122,7 @@ _**Data Science Intern**_ | _July 2021 - September 2021_ <br>
 > Worked with teaching assistants and other ARD facilitators to provide space for UCLA undergraduate students to participate in anti-racism discourse. <br>
 > Engaged students in regular discussion and reflection on topics related to systemic racism within our communities through proactive, small-group conversations. <br>
 
-**_Learning Assistant for Python with Applications (PIC 16A)_** | January 2022 - March 2022_ <br>
+**_Learning Assistant for Python with Applications (PIC 16A)_** | _January 2022 - March 2022_ <br>
 > Worked with Professor Harlin Lee, teaching assistants, and other learning assistants to foster collaborative learning and discussion. <br>
 > Core topics: Core Python language constructs; applications; text processing; data visualization; interaction with spreadsheets and SQL databases; creation of graphical user interfaces.
 
@@ -150,25 +150,28 @@ _Participated in a team of three (from UCLA), proposed a solution to an open-end
 
 ## Mini Research Projects
 **Geophysical Fluid Dynamics (Dartmouth ENGG 199.12) Final Project**<br>
+
 **Numerical Methods (Dartmouth ENGG 199.13) Final Project**<br>
+
 **Math Modeling of Earth Sciences (Dartmouth EARS 107) Final Project**<br>
+**_Shallow Shelf Approximation using finite elements_**
 
 **Machine Learning (UCLA Math 156) Group Project**<br>
-**_Sentiment Analysis of Movie Reviews_**<br> 
+**_Sentiment Analysis of Movie Reviews_** <br> 
 [GitHub Repository](https://github.com/mansakrishna23/Sentiment-Analysis-Movie-Recommendations) | [Project](https://drive.google.com/file/d/1VqPxQbbuvg_dehOGu6WjFx4b6GEwderQ/view?usp=sharing) | _Fall Quarter 2021_ <br>
-- Collaborated on a machine learning project that aims to classify textual data (i.e., movie reviews) according to their associated sentiment (i.e., positive or negative sentiments)
+> Collaborated on a machine learning project that aims to classify textual data (i.e., movie reviews) according to their associated sentiment (i.e., positive or negative sentiments)
 
 **Python with Applications II (UCLA PIC 16B) Group Project**<br> 
 **_Sign Language Translation_** <br>
 [GitHub Repository](https://github.com/pfflanders/Sign-Language-Translation) | _Fall Quarter 2021_ <br>
-- Collaborating on a Machine Learning project that aims to provide a live translation of sign languages by creating a convolutional neural network (CNN).
+> Collaborating on a Machine Learning project that aims to provide a live translation of sign languages by creating a convolutional neural network (CNN).
 
 **Numerical Methods in Atmospheric Science (UCLA A&O SCI 180) Project**<br>
 **_Simulation of Shallow Water Equations in 2D_**<br> 
 [Animation](https://drive.google.com/file/d/1mOhYPZfRITfdnCt9LzPdC-n1_TyjI52L/view?usp=sharing) | [Documentation](https://drive.google.com/file/d/1XPVNlBi9ifQv_8kFykdFvEi11zvZ5w6i/view?usp=sharing) |  _Spring Quarter 2021_ <br>
-- Utilized an Arakawa C staggered grid (spatial discretization) and Forward-Backward scheme (time discretization) to construct a simulation of shallow water equations
+> Utilized an Arakawa C staggered grid (spatial discretization) and Forward-Backward scheme (time discretization) to construct a simulation of shallow water equations
 
 **Introduction to Research in Atmospheric and Oceanic Sciences (UCLA A&O SCI 90) Project** <br>
 **_An Analysis of the Increase in the Global Mean Land-Ocean Temperature Contrast_**<br>
 [Project](https://drive.google.com/file/d/1MO9dGPT12zzM5KPEk6LlZSMF0C9-_VJw/view?usp=sharing) | _Winter Quarter 2021_ <br>
-- The mini research project attempted to determine whether the global mean land-ocean temperature contrast had increased within the last five years through statistical analysis of global temperature data.
+> The mini research project attempted to determine whether the global mean land-ocean temperature contrast had increased within the last five years through statistical analysis of global temperature data.
