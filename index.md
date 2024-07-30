@@ -42,7 +42,7 @@ English _(Native)_, Hindi _(Fluent)_, Tamil _(Beginner, Spoken only)_
 
 ## Research
 **"Ice Future" - Research Group, Dartmouth College** | [Webpage](https://icefuture.org/) <br>
-**_PhD Candidate** | _September 2022 - Present_ <br>
+**_PhD Candidate_** | _September 2022 - Present_ <br>
 - Working with Dr. Mathieu Morlighem, Dept. of Earth Sciences, Dartmouth College
 - Developing physics-informed machine learning models to infer ice sheet bed topography using ice sheet surface features
 
