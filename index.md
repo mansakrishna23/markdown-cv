@@ -147,12 +147,12 @@ _**Designation of Honorable Mention**_ <br>
 _Participated in a team of three (from UCLA), proposed a solution to an open-ended data insights problem_
 
 ## Mini Research Projects
-**Glaciology in Machine Learning Summer School Group Project**
+**Glaciology in Machine Learning Summer School Group Project** <br>
 Inverting for viscosity (with sparse ice thickness) ft. PINNs | June 2024 <br>
 > Collaborated on a physics-informed machine learning group project, with project advisor Dr. Ching-Yao Lai (Stanford University).
 > Worked on implementing a physics-informed neural network to infer the spatially-variable ice viscosity for a floating ice shelf; we used sparse ice thickness values in our inversion that was representative of the sparse ground-truth ice thickness data.
 
-**Karthaus Summer School Group Project**
+**Karthaus Summer School Group Project** <br>
 Glacier Hydrology Modeling | May 2024 <br>
 > Collaborated on a glacier hydrology modeling group project, with project advisor Dr. Ian Hewitt (Oxford University).
 > Explored the effect of varying the volume of supraglacial water input to the subglacial hydrological system and the effect of the bed topography on the ice sheet velocity. 
