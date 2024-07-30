@@ -93,16 +93,16 @@ Presentation | [Presentation Link](https://www.youtube.com/watch?v=ZgUGZrOEU7E) 
 
 ## Work Experience
 **[The Stack](https://stack.dailybruin.com/), Daily Bruin (UCLA Student Media)** <br>
-**Data Journalist** | October 2020 - Present <br>
+Data Journalist | October 2020 - Present <br>
 > Building digital stories with The Stack, Daily Bruin (UCLA's student-run publication). <br>
 > Investigating public data, experimenting with technology, and applying quantitative insights to the real world at The Stack (Daily Bruin's data journalism and newsroom tech blog).
 
 **Anthem, Inc., United States**<br>
-**Data Science Intern** | July 2021 - September 2021 <br>
+Data Science Intern | July 2021 - September 2021 <br>
 > Developed a collinearity reduction and feature selection algorithm to create robust training data for machine learning models using principal component analysis.
 
 **Visseiro Digital Healthcare, Germany**<br>
-**Data Science e-Intern** | June 2020 - August 2020 <br>
+Data Science e-Intern | June 2020 - August 2020 <br>
 > Used unsupervised machine learning and statistical methods to detect anomalies in medical respiratory data.
 
 ## Teaching Experience
@@ -110,33 +110,33 @@ Presentation | [Presentation Link](https://www.youtube.com/watch?v=ZgUGZrOEU7E) 
 - OT hackweek helper stuff. 
 
 **Reproducible Research Training, Dartmouth** | April 2023 - October 2023 <br>
-**Volunteer Learning Assistant** <br>
+Volunteer Learning Assistant <br>
 > Volunteering with Research Data Services team at Dartmouth College to help facilitate learning in computer programming workshops, including Python and Machine Learning workshops.<br>
 > Helped with curriculum development of Intro to Programming (Python) workshops. 
 
 **Learning Assistant Program, UCLA**<br>
-**_Anti-Racism Discussion (ARD) Facilitator_** | _April 2022 - June 2022_ <br>
+Anti-Racism Discussion (ARD) Facilitator | April 2022 - June 2022 <br>
 > Worked with teaching assistants and other ARD facilitators to provide space for UCLA undergraduate students to participate in anti-racism discourse. <br>
 > Engaged students in regular discussion and reflection on topics related to systemic racism within our communities through proactive, small-group conversations. <br>
 
-**_Learning Assistant for Python with Applications (PIC 16A)_** | _January 2022 - March 2022_ <br>
+Learning Assistant for Python with Applications (PIC 16A) | January 2022 - March 2022 <br>
 > Worked with Professor Harlin Lee, teaching assistants, and other learning assistants to foster collaborative learning and discussion. <br>
 > Core topics: Core Python language constructs; applications; text processing; data visualization; interaction with spreadsheets and SQL databases; creation of graphical user interfaces.
 
-**_Learning Assistant for Upper-Division Linear Algebra (Math 115A)_** | _January 2021 - March 2021_ <br>
+Learning Assistant for Upper-Division Linear Algebra (Math 115A) | January 2021 - March 2021 <br>
 > Worked with Professor Rose Morris-Wright, teaching assistants, and other learning assistants to foster collaborative learning and discussion. <br>
 > Core topics: Techniques of proof; abstract vector spaces; linear transformations; matrices and determinants; inner product spaces; eigenvector theory.
 
-**_Head Pedagogy Learning Assistant for Differential Equations (Math 33B)_** | _April 2020 - June 2020_ <br>
+Head Pedagogy Learning Assistant for Differential Equations (Math 33B) | April 2020 - June 2020 <br>
 > Worked with Professor Allen Gehret, teaching assistants, and other learning assistants to foster collaborative learning and discussion. Mentored new learning assistants in pedagogy techniques. <br>
 > Core topics: First-order, linear differential equations; second-order, linear differential equations with constant coefficients; power series solutions; linear systems
 
-**_Learning Assistant for Calculus of Several Variables (Math 32A)_** | _January 2020 - March 2020_ <br>
+Learning Assistant for Calculus of Several Variables (Math 32A) | January 2020 - March 2020 <br>
 > Worked with Professor Rolando de Santiago, teaching assistants, and other learning assistants to foster collaborative learning and discussion. <br>
 > Core topics: Intro to differential calculus of several variables; vector field theory. 
 
 **Math Vision Enrichment Centre, Singapore**<br>
-**_High School (IGCSE Extended and Additional) Mathematics Tutor_** | _August 2019 - September 2019_ <br>
+High School (IGCSE Extended and Additional) Mathematics Tutor | August 2019 - September 2019 <br>
 > Taught and clarified mathematical concepts to high school students in a one-on-one setting. Created practice test papers for students. 
 
 ## Honors and Awards
