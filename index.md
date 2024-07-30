@@ -128,7 +128,8 @@ Learning Assistant for Upper-Division Linear Algebra (Math 115A) | January 2021 
 > Core topics: Techniques of proof; abstract vector spaces; linear transformations; matrices and determinants; inner product spaces; eigenvector theory.
 
 Head Pedagogy Learning Assistant for Differential Equations (Math 33B) | April 2020 - June 2020 <br>
-> Worked with Professor Allen Gehret, teaching assistants, and other learning assistants to foster collaborative learning and discussion. Mentored new learning assistants in pedagogy techniques. <br>
+> Mentored new learning assistants in pedagogy techniques. <br>
+> Worked with Professor Allen Gehret, teaching assistants, and other learning assistants to foster collaborative learning and discussion. <br>
 > Core topics: First-order, linear differential equations; second-order, linear differential equations with constant coefficients; power series solutions; linear systems
 
 Learning Assistant for Calculus of Several Variables (Math 32A) | January 2020 - March 2020 <br>
