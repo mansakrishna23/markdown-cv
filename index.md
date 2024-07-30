@@ -11,7 +11,7 @@ _Member of the "Ice-Future" - Research Group, advised by Prof. Mathieu Morlighem
 
 **University of California, Los Angeles** (September 2018 - June 2022) <br>
 _**B.S. Applied Mathematics with Specialization in Computing, Minor in History**_ <br>
-Dean's Honors List _(Winter 2021, Spring 2021, Fall 2021, Winter 2022)_
+Dean's Honors List (Winter 2021, Spring 2021, Fall 2021, Winter 2022)
 
 **NPS International School, Singapore** (May 2018) <br>
 _**International Baccalaureate (IB) Diploma** Overall Score: 41 / 45_ <br>
@@ -106,9 +106,6 @@ Data Science e-Intern | June 2020 - August 2020 <br>
 > Used unsupervised machine learning and statistical methods to detect anomalies in medical respiratory data.
 
 ## Teaching Experience
-**Hackweek, University of Washington** | August 2024<br>
-- OT hackweek helper stuff. 
-
 **Reproducible Research Training, Dartmouth** | April 2023 - October 2023 <br>
 Volunteer Learning Assistant <br>
 > Volunteering with Research Data Services team at Dartmouth College to help facilitate learning in computer programming workshops, including Python and Machine Learning workshops.<br>
@@ -147,11 +144,19 @@ _Participated in a team of three (from UCLA), proposed a solution to an open-end
 
 ## Mini Research Projects
 **Geophysical Fluid Dynamics (Dartmouth ENGG 199.12) Final Project** <br>
+*Mathematical Modeling of Suspended Biomass Burning Debris* <br>
+Spring Quarter 2023
+> Attempted to take a closer look at some of my undergraduate research. Developed a mathematical model (with the help of my professor) to better understand how smoke aerosols and suspended debris would behave in the atmosphere for longer timescales.  
 
-**Numerical Methods (Dartmouth ENGG 199.13) Final Project** <br>
+**Numerical Modeling of Glacier and Ice Sheet Dynamics (Dartmouth ENGG 199.13) Final Project** <br>
+*Mesh Resolution vs. Bed Resolution* <br>
+Spring Quarter 2023
+> Worked on an individual final project that involved solving for the evolution of ice with the Ice-sheet and Sea-level system model (ISSM) whilst varying the bed topography resolution and the mesh resolution. The study centered around seeing whether the evolution of ice was more affected by the modeling mesh or the resolution of the data itself. 
 
 **Math Modeling of Earth Sciences (Dartmouth EARS 107) Final Project** <br>
-*Shallow Shelf Approximation using finite elements*
+*Shallow Shelf Approximation using the Finite Element Method* <br>
+[GitHub Link to MATLAB Code](https://github.com/mansakrishna23/SSA-ML/blob/main/ssa2.m) | Fall Quarter 2022 <br>
+> Worked on an individual final project that involved solving the shallow shelf approximation numerically using the final element method for a simple 2D floating ice shelf. 
 
 **Machine Learning (UCLA Math 156) Group Project**<br>
 *Sentiment Analysis of Movie Reviews* <br> 
