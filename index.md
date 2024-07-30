@@ -10,8 +10,7 @@ _Member of the "Ice-Future" - Research Group, advised by Prof. Mathieu Morlighem
 > **Glaciology in Machine Learning Summer School ([GlaMacLeS](https://glamacles.github.io))** (June 2024) Robust training in various artificial intelligience architectures and their applications to glaciology.   
 
 **University of California, Los Angeles** (September 2018 - June 2022) <br>
-_**B.S. Applied Mathematics, Specialization in Computing**_ <br>
-_**History Minor**_ <br>
+_**B.S. Applied Mathematics with Specialization in Computing, Minor in History**_ <br>
 Dean's Honors List _(Winter 2021, Spring 2021, Fall 2021, Winter 2022)_
 
 **NPS International School, Singapore** (May 2018) <br>
