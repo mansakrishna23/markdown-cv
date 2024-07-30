@@ -45,7 +45,7 @@ English _(Native)_, Hindi _(Fluent)_, Tamil _(Beginner, Spoken only)_
 > Working with PhD advisor, Dr. Mathieu Morlighem, Dept. of Earth Sciences, Dartmouth College. <br>
 > Developing physics-informed machine learning models to infer ice sheet bed topography using ice sheet surface features.
 
-**Physics Informed Neural Networks for Ice and CLimatE ([PINNICLE](https://github.com/ISSMteam/PINNICLE))** <br>
+**Physics Informed Neural Networks for Ice and CLimatE, [PINNICLE](https://github.com/ISSMteam/PINNICLE)** <br>
 **Developer** | January 2024 - Present <br>
 > Working with Cheng Gong and Mathieu Morlighem on developing the open-source Python package, PINNICLE. This package is catered towards training and deploying physics-informed neural networks specifically for ice and climate research.  
 
