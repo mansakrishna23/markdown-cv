@@ -44,18 +44,18 @@ English _(Native)_, Hindi _(Fluent)_, Tamil _(Beginner, Spoken only)_
 ## Research
 **["Ice Future" - Research Group](https://icefuture.org/), Dept. of Earth Sciences, Dartmouth College** <br>
 **_PhD Candidate_** | _September 2022 - Present_ <br>
-- Working with PhD advisor, Dr. Mathieu Morlighem, Dept. of Earth Sciences, Dartmouth College
-- Developing physics-informed machine learning models to infer ice sheet bed topography using ice sheet surface features
+> Working with PhD advisor, Dr. Mathieu Morlighem, Dept. of Earth Sciences, Dartmouth College. <br>
+> Developing physics-informed machine learning models to infer ice sheet bed topography using ice sheet surface features.
 
 **[Pablo Saide Research Group](https://dept.atmos.ucla.edu/saide/home), UCLA** <br>
 **_Undergraduate Researcher_** | _October 2020 - June 2022_ <br>
-- Collaborating on a research project with Dr. Pablo Saide, Dept. of Atmospheric and Oceanic Sciences, UCLA
-- Investigating Doppler Radar data to retrieve fire plume injection heights for the purpose of evaluating air quality and high-resolution fire spread models
+> Collaborating on a research project with Dr. Pablo Saide, Dept. of Atmospheric and Oceanic Sciences, UCLA. <br>
+> Investigating Doppler Radar data to retrieve fire plume injection heights for the purpose of evaluating air quality and high-resolution fire spread models.
 
 **[Sustainable LA Grand Challenge](https://grandchallenges.ucla.edu/sustainable-la/) Undergraduate Research Scholars Program** <br>
 _**Undergraduate Research Scholar**_ | _October 2020 - June 2021_ <br>
-- Worked on a group research project with Bonny Bentzin (Deputy Chief Sustainability Officer, Institute of the Environment and Sustainability, UCLA) and Dr. Rebecca Shipe (Department of Ecology and Evolutionary Biology, UCLA) as mentors
-- Investigated the feasibility of implementing a geothermal system for UCLA's North Campus' heating and cooling needs for the purpose of energy conservation
+> Worked on a group research project with Bonny Bentzin (Deputy Chief Sustainability Officer, Institute of the Environment and Sustainability, UCLA) and Dr. Rebecca Shipe (Department of Ecology and Evolutionary Biology, UCLA) as mentors. <br>
+> Investigated the feasibility of implementing a geothermal system for UCLA's North Campus' heating and cooling needs for the purpose of energy conservation.
 
 ## Publications
 **Research**:<br>
@@ -72,41 +72,41 @@ _Punctuality and popularity of public transit routes near UCLA’s campus_, [Lin
 ## Presentations
 **Northeast Glaciology Meeting (NEGM) 2024**<br>
 _**Oral Presentation**_ | _March 2024_ <br>
-- Presented research (**_Title_**: Simultaneously Inferring Subglacial Topography and Basal Sliding with Physics Informed Machine Learning) at NEGM 2024, hosted at the Massachusetts Institute of Technology (MIT), in a 10-minute oral presentation.
+> Presented research (**_Title_**: Simultaneously Inferring Subglacial Topography and Basal Sliding with Physics Informed Machine Learning) at NEGM 2024, hosted at the Massachusetts Institute of Technology (MIT), in a 10-minute oral presentation.
 
 **American Geophysical Union (AGU) 2023**<br>
 _**e-Lightning Talk and Poster**_ | [Abstract](https://agu.confex.com/agu/fm23/meetingapp.cgi/Paper/1289845) | [Poster](https://agu23.ipostersessions.com/Default.aspx?s=65-AB-AE-77-CE-62-E8-20-5B-D6-0E-5E-A5-04-5F-00) | _December 2023_ <br>
-- Presented research (**_Title_**: Inferring Bed Topography from Ice Sheet Surface Features Using Physics Informed Machine Learning) at the Machine Learning and the Cryosphere: Data and Modeling III session.
+> Presented research (**_Title_**: Inferring Bed Topography from Ice Sheet Surface Features Using Physics Informed Machine Learning) at the Machine Learning and the Cryosphere: Data and Modeling III session.
 
 **Fire and Climate Conference: Impacts, Issues, and Futures**<br>
 _**Presenter**_ | _May 2022_ <br>
-- Presented research (**_Title_**: Plume Injection Heights Estimated From Doppler Weather Radar Observations) at the Fire and Climate Conference, Pasadena, as an oral presentation in the Smoke Transport and Air Quality Session.
+> Presented undergraduate research (**_Title_**: Plume Injection Heights Estimated From Doppler Weather Radar Observations) at the Fire and Climate Conference, Pasadena, as an oral presentation in the Smoke Transport and Air Quality Session.
 
 **UCLA Undergraduate Research Week 2022 - Atmospheric and Environmental Science Showcase**<br>
 _**Presenter**_ | _May 2022_ <br>
-- Presented research project (**_Title_**: Plume Injection Heights Estimated From Weather Radar Observations) as a live presentation, part of the 2022 UCLA Undergraduate Research Week Atmospheric and Environmental Science Showcase
+> Presented undergraduate research (**_Title_**: Plume Injection Heights Estimated From Weather Radar Observations) as a live presentation, part of the 2022 UCLA Undergraduate Research Week Atmospheric and Environmental Science Showcase.
 
 **Meteorology and Climate - Modelling for Air Quality (MAC-MAQ) Conference, University of California - Davis**<br>
 _**Poster Presenter**_ | [Abstract](https://macmaq.aqrc.ucdavis.edu/2021-program-content#Mansa_Krishna) | _September 2021_<br>
-- Presented research project (**_Title_**: Fire Plume Injection Heights Estimated From Doppler Weather Radar Observations) at the MAC-MAQ Conference as a Lightning Talk and [Poster Presentation](https://drive.google.com/file/d/1LP33CvY-9QxeG6uVAMulJmDngSBbXS1L/view?usp=sharing).
+> Presented undergraduate research (**_Title_**: Fire Plume Injection Heights Estimated From Doppler Weather Radar Observations) at the MAC-MAQ Conference as a Lightning Talk and [Poster Presentation](https://drive.google.com/file/d/1LP33CvY-9QxeG6uVAMulJmDngSBbXS1L/view?usp=sharing).
 
 **UCLA Undergraduate Research Week 2021 - Atmospheric and Environmental Science Showcase**<br>
 _**Presenter**_ | [Presentation Link](https://www.youtube.com/watch?v=ZgUGZrOEU7E) | _May 2021_ <br>
-- Presented year-long research project (**_Title_**: Plume Injection Heights Estimated From Weather Radar Observations) as part of the 2021 UCLA Undergraduate Research Week Atmospheric and Environmental Science Showcase
+> Presented undergraduate research (**_Title_**: Plume Injection Heights Estimated From Weather Radar Observations) as part of the 2021 UCLA Undergraduate Research Week Atmospheric and Environmental Science Showcase.
 
 ## Work Experience
 **The Stack, Daily Bruin (UCLA Student Media)**<br>
 **_Data Journalist_** | [The Stack Page](https://stack.dailybruin.com/) | _October 2020 - Present_ <br>
-- Building digital stories with The Stack, Daily Bruin (UCLA's student-run publication)
-- Investigating public data, experimenting with technology, and applying quantitative insights to the real world at The Stack (Daily Bruin's data journalism and newsroom tech blog)
+> Building digital stories with The Stack, Daily Bruin (UCLA's student-run publication). <br>
+> Investigating public data, experimenting with technology, and applying quantitative insights to the real world at The Stack (Daily Bruin's data journalism and newsroom tech blog).
 
 **Anthem, Inc., United States**<br>
 _**Data Science Intern**_ | _July 2021 - September 2021_ <br>
-- Developed a collinearity reduction and feature selection algorithm to create robust training data for machine learning models using principal component analysis
+> Developed a collinearity reduction and feature selection algorithm to create robust training data for machine learning models using principal component analysis.
 
 **Visseiro Digital Healthcare, Germany**<br>
 **_Data Science e-Intern_** | _June 2020 - August 2020_ <br>
-- Developed algorithms using unsupervised machine learning and statistical methods to detect anomalies in medical respiratory data
+> Used unsupervised machine learning and statistical methods to detect anomalies in medical respiratory data.
 
 ## Teaching Experience
 **Hackweek, University of Washington** | August 2024<br>
@@ -114,36 +114,34 @@ _**Data Science Intern**_ | _July 2021 - September 2021_ <br>
 
 **Reproducible Research Training, Dartmouth** | _April 2023 - October 2023_ <br>
 **_Volunteer Learning Assistant_** <br>
-- Volunteering with Research Data Services team at Dartmouth College to help facilitate learning in computer programming workshops, including Python and Machine Learning workshops.
-- Helped with curriculum development of Intro to Programming (Python) workshops. 
+> Volunteering with Research Data Services team at Dartmouth College to help facilitate learning in computer programming workshops, including Python and Machine Learning workshops.<br>
+> Helped with curriculum development of Intro to Programming (Python) workshops. 
 
 **Learning Assistant Program, UCLA**<br>
 **_Anti-Racism Discussion (ARD) Facilitator_** | _April 2022 - June 2022_ <br>
-- Worked with teaching assistants and other ARD facilitators to provide space for UCLA undergraduate students to participate in anti-racism discourse. 
-- Engaged students in regular discussion and reflection on topics related to systemic racism within our communities through proactive, small-group conversations. 
+> Worked with teaching assistants and other ARD facilitators to provide space for UCLA undergraduate students to participate in anti-racism discourse. <br>
+> Engaged students in regular discussion and reflection on topics related to systemic racism within our communities through proactive, small-group conversations. <br>
 
 **_Learning Assistant for Python with Applications (PIC 16A)_** | January 2022 - March 2022_ <br>
-- Worked with Professor Harlin Lee, teaching assistants, and other learning assistants to foster collaborative learning and discussion
-- Core topics: Core Python language constructs; applications; text processing; data visualization; interaction with spreadsheets and SQL databases; creation of graphical user interfaces.
+> Worked with Professor Harlin Lee, teaching assistants, and other learning assistants to foster collaborative learning and discussion. <br>
+> Core topics: Core Python language constructs; applications; text processing; data visualization; interaction with spreadsheets and SQL databases; creation of graphical user interfaces.
 
 **_Learning Assistant for Upper-Division Linear Algebra (Math 115A)_** | _January 2021 - March 2021_ <br>
-- Worked with Professor Rose Morris-Wright, teaching assistants, and other learning assistants to foster collaborative learning and discussion
-- Core topics: Techniques of proof; abstract vector spaces; linear transformations; matrices and determinants; inner product spaces; eigenvector theory
+> Worked with Professor Rose Morris-Wright, teaching assistants, and other learning assistants to foster collaborative learning and discussion. <br>
+> Core topics: Techniques of proof; abstract vector spaces; linear transformations; matrices and determinants; inner product spaces; eigenvector theory.
 
 **_Head Pedagogy Learning Assistant for Differential Equations (Math 33B)_** | _April 2020 - June 2020_ <br>
-- Worked with Professor Allen Gehret, teaching assistants, and other learning assistants to foster collaborative learning and discussion
-- Mentored new learning assistants in pedagogy techniques
-- Core topics: First-order, linear differential equations; second-order, linear differential equations with constant coefficients; power series solutions; linear systems
+> Worked with Professor Allen Gehret, teaching assistants, and other learning assistants to foster collaborative learning and discussion. Mentored new learning assistants in pedagogy techniques. <br>
+> Core topics: First-order, linear differential equations; second-order, linear differential equations with constant coefficients; power series solutions; linear systems
 
 **_Learning Assistant for Calculus of Several Variables (Math 32A)_** | _January 2020 - March 2020_ <br>
-- Worked with Professor Rolando de Santiago, teaching assistants, and other learning assistants to foster collaborative learning and discussion
-- Core topics: Intro to differential calculus of several variables; vector field theory
+> Worked with Professor Rolando de Santiago, teaching assistants, and other learning assistants to foster collaborative learning and discussion. <br>
+> Core topics: Intro to differential calculus of several variables; vector field theory. 
 
 **Math Vision Enrichment Centre, Singapore**<br>
 **_High School (IGCSE Extended and Additional) Mathematics Tutor_** <br>
 _August 2019 - September 2019_<br>
-- Taught and clarified mathematical concepts to high school students in a one-on-one setting 
-- Created practice test papers for students
+> Taught and clarified mathematical concepts to high school students in a one-on-one setting. Created practice test papers for students. 
 
 ## Honors and Awards
 **Mathematical Contest in Modelling** | _February 2022_ <br>
