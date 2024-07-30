@@ -145,29 +145,29 @@ _**Designation of Honorable Mention**_ <br>
 _Participated in a team of three (from UCLA), proposed a solution to an open-ended data insights problem_
 
 ## Mini Research Projects
-**Geophysical Fluid Dynamics (Dartmouth ENGG 199.12) Final Project**<br>
+**Geophysical Fluid Dynamics (Dartmouth ENGG 199.12) Final Project** <br>
 
-**Numerical Methods (Dartmouth ENGG 199.13) Final Project**<br>
+**Numerical Methods (Dartmouth ENGG 199.13) Final Project** <br>
 
-**Math Modeling of Earth Sciences (Dartmouth EARS 107) Final Project**<br>
-**_Shallow Shelf Approximation using finite elements_**
+**Math Modeling of Earth Sciences (Dartmouth EARS 107) Final Project** <br>
+*Shallow Shelf Approximation using finite elements*
 
 **Machine Learning (UCLA Math 156) Group Project**<br>
-**Sentiment Analysis of Movie Reviews** <br> 
+*Sentiment Analysis of Movie Reviews* <br> 
 [GitHub Repository](https://github.com/mansakrishna23/Sentiment-Analysis-Movie-Recommendations) | [Project](https://drive.google.com/file/d/1VqPxQbbuvg_dehOGu6WjFx4b6GEwderQ/view?usp=sharing) | Fall Quarter 2021 <br>
 > Collaborated on a machine learning project that aims to classify textual data (i.e., movie reviews) according to their associated sentiment (i.e., positive or negative sentiments)
 
 **Python with Applications II (UCLA PIC 16B) Group Project**<br> 
-**Sign Language Translation** <br>
+*Sign Language Translation* <br>
 [GitHub Repository](https://github.com/pfflanders/Sign-Language-Translation) | Fall Quarter 2021 <br>
 > Collaborating on a Machine Learning project that aims to provide a live translation of sign languages by creating a convolutional neural network (CNN).
 
 **Numerical Methods in Atmospheric Science (UCLA A&O SCI 180) Project**<br>
-**Simulation of Shallow Water Equations in 2D** <br> 
+*Simulation of Shallow Water Equations in 2D* <br> 
 [Animation](https://drive.google.com/file/d/1mOhYPZfRITfdnCt9LzPdC-n1_TyjI52L/view?usp=sharing) | [Documentation](https://drive.google.com/file/d/1XPVNlBi9ifQv_8kFykdFvEi11zvZ5w6i/view?usp=sharing) |  Spring Quarter 2021 <br>
 > Utilized an Arakawa C staggered grid (spatial discretization) and Forward-Backward scheme (time discretization) to construct a simulation of shallow water equations
 
 **Introduction to Research in Atmospheric and Oceanic Sciences (UCLA A&O SCI 90) Project** <br>
-**An Analysis of the Increase in the Global Mean Land-Ocean Temperature Contrast**<br>
+*An Analysis of the Increase in the Global Mean Land-Ocean Temperature Contrast* <br>
 [Project](https://drive.google.com/file/d/1MO9dGPT12zzM5KPEk6LlZSMF0C9-_VJw/view?usp=sharing) | Winter Quarter 2021 <br>
 > The mini research project attempted to determine whether the global mean land-ocean temperature contrast had increased within the last five years through statistical analysis of global temperature data.
