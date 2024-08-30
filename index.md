@@ -15,7 +15,7 @@ Dean's Honors List (Winter 2021, Spring 2021, Fall 2021, Winter 2022)
 
 **NPS International School, Singapore** (May 2018) <br>
 _**International Baccalaureate (IB) Diploma** Overall Score: 41 / 45_ <br>
-_Mathematics (Higher-Level), Physics (Higher-Level), Chemistry (Higher-Level), English Language and Literature (Standard-Level), Hindi B (Standard-Level), Economics (Standard-Level)_
+_Mathematics (Higher-Level), Physics (Higher-Level), Chemistry (Higher-Level), English Language and Literature (Standard-Level), Hindi B (Standard-Level), Economics (Standard-Level)_ <br>
 
 **Singapore Indian Fine Arts Society** (June 2018) <br>
 _**Diploma in Classical Indian Dance, Bharatanatyam**_<br>
@@ -110,6 +110,11 @@ Data Science e-Intern | June 2020 - August 2020 <br>
 > Used unsupervised machine learning and statistical methods to detect anomalies in medical respiratory data.
 
 ## Teaching Experience
+**[NASA Earth Sciences & UW Hackweek](https://2024.hackweek.io)** | August 2024 <br>
+Hackweek Helper <br>
+> Helped and mentored participants in navigating using computational tools (like version control and and Python packages) and project work during the hackweek.
+> Primarily worked with participants in the Geosmart Track. In particular, worked with participants on the [multi-gpr-soil](https://github.com/geo-smart/multi-gpr-soil) project. 
+
 **Reproducible Research Training, Dartmouth** | April 2023 - October 2023 <br>
 Volunteer Learning Assistant <br>
 > Volunteering with Research Data Services team at Dartmouth College to help facilitate learning in computer programming workshops, including Python and Machine Learning workshops.<br>
