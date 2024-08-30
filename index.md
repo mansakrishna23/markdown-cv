@@ -112,7 +112,7 @@ Data Science e-Intern | June 2020 - August 2020 <br>
 ## Teaching Experience
 **[NASA Earth Sciences & UW Hackweek](https://2024.hackweek.io)** | August 2024 <br>
 Hackweek Helper <br>
-> Helped and mentored participants in navigating using computational tools (like version control and and Python packages) and project work during the hackweek.
+> Helped and mentored participants in navigating using computational tools (like version control and and Python packages) and project work during the hackweek. <br>
 > Primarily worked with participants in the Geosmart Track. In particular, worked with participants on the [multi-gpr-soil](https://github.com/geo-smart/multi-gpr-soil) project. 
 
 **Reproducible Research Training, Dartmouth** | April 2023 - October 2023 <br>
@@ -150,6 +150,10 @@ High School (IGCSE Extended and Additional) Mathematics Tutor | August 2019 - Se
 **Mathematical Contest in Modelling** | February 2022 <br>
 _**Designation of Honorable Mention**_ <br>
 _Participated in a team of three (from UCLA), proposed a solution to an open-ended data insights problem_
+
+**Singapore Energy Innovation Challenge** | July 2017 <br>
+_**Team placed in third place**_ <br>
+_Engineered a prototype device ‘Aeroheat’ to reduce the UHI (Urban Heat Island) effect in Singapore._
 
 ## Mini Research Projects
 **Glaciology in Machine Learning Summer School Group Project** <br>
