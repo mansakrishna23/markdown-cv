@@ -155,6 +155,12 @@ _Participated in a team of three (from UCLA), proposed a solution to an open-end
 _**Team placed in third place**_ <br>
 _Engineered a prototype device ‘Aeroheat’ to reduce the UHI (Urban Heat Island) effect in Singapore._
 
+## Academic Service
+**Dept. of Earth Sciences, Dartmouth College** <br>
+**Geolunch Comittee** | September 2023 - June 2024
+**Seminar Comittee** | September 2023 - June 2024
+**Newsletter Comittee** | September 2022 - June 2023
+
 ## Mini Research Projects
 **Glaciology in Machine Learning Summer School Group Project** <br>
 Inverting for viscosity (with sparse ice thickness) ft. PINNs | June 2024 <br>
