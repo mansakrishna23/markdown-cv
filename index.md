@@ -160,7 +160,7 @@ _Engineered a prototype device ‘Aeroheat’ to reduce the UHI (Urban Heat Isla
 >**Geolunch Comittee** | September 2023 - June 2024 <br>
 >_Worked in a team to organize departmental lunch and (internal) earth science related talks for the Dept. of Earth Sciences._ <br>
 >**Seminar Comittee** | September 2023 - June 2024 <br>
->_Worked in a team to plan and coordinate logistics for visiting speakers for the weekly hour-long seminar series, hosted by the Dept. >of Earth Sciences. Worked with Professor Sarah Slotznick to coordinate graduate student lunches with the speaker, zoom set-up, and >seminar advertisements, among other tasks._<br>
+>_Worked in a team to plan and coordinate logistics for visiting speakers for the weekly hour-long seminar series, hosted by the Dept. of Earth Sciences. Worked with Professor Sarah Slotznick to coordinate graduate student lunches with the speaker, zoom set-up, and seminar advertisements, among other tasks._<br>
 >**Newsletter Comittee** | September 2022 - June 2023 <br>
 >_Worked in a team of graduate students to prepare and publish the department newsletter for the academic year._
 
