@@ -72,7 +72,7 @@ English _(Native)_, Hindi _(Fluent)_, Tamil _(Beginner, Spoken only)_
 
 ## Presentations
 **Northeast Glaciology Meeting (NEGM) 2024**<br>
-Oral Presentation | March 2024 <br>
+Oral Presentation | April 2024 <br>
 > Presented research (**_Title: Simultaneously Inferring Subglacial Topography and Basal Sliding with Physics Informed Machine Learning_**) at NEGM 2024, hosted at the Massachusetts Institute of Technology (MIT), in a 10-minute oral presentation.
 
 **American Geophysical Union (AGU) 2023**<br>
@@ -157,9 +157,14 @@ _Engineered a prototype device ‘Aeroheat’ to reduce the UHI (Urban Heat Isla
 
 ## Academic Service
 **Dept. of Earth Sciences, Dartmouth College** <br>
-**Geolunch Comittee** | September 2023 - June 2024
-**Seminar Comittee** | September 2023 - June 2024
-**Newsletter Comittee** | September 2022 - June 2023
+**Geolunch Comittee** | September 2023 - June 2024 <br>
+_Worked in a team to organize departmental lunch and (internal) earth science related talks for the Dept. of Earth Sciences._ 
+
+**Seminar Comittee** | September 2023 - June 2024 <br>
+_Worked in a team to plan and coordinate logistics for visiting speakers for the weekly hour-long seminar series, hosted by the Dept. of Earth Sciences. Worked with Professor Sarah Slotznick to coordinate graduate student lunches with the speaker, zoom set-up, and seminar advertisements, among other tasks._
+
+**Newsletter Comittee** | September 2022 - June 2023 <br>
+_Worked in a team of graduate students to prepare and publish the department newsletter for the academic year._
 
 ## Mini Research Projects
 **Glaciology in Machine Learning Summer School Group Project** <br>
