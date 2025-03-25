@@ -121,10 +121,6 @@ Volunteer Learning Assistant <br>
 > Helped with curriculum development of Intro to Programming (Python) workshops. 
 
 **Learning Assistant Program, UCLA**<br>
-Anti-Racism Discussion (ARD) Facilitator | April 2022 - June 2022 <br>
-> Worked with teaching assistants and other ARD facilitators to provide space for UCLA undergraduate students to participate in anti-racism discourse. <br>
-> Engaged students in regular discussion and reflection on topics related to systemic racism within our communities through proactive, small-group conversations. <br>
-
 Learning Assistant for Python with Applications (PIC 16A) | January 2022 - March 2022 <br>
 > Worked with Professor Harlin Lee, teaching assistants, and other learning assistants to foster collaborative learning and discussion. <br>
 > Core topics: Core Python language constructs; applications; text processing; data visualization; interaction with spreadsheets and SQL databases; creation of graphical user interfaces.
