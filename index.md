@@ -1,10 +1,10 @@
-_Currently a PhD Candidate in the Dept. of Earth Sciences at Dartmouth, working with Dr. Mathieu Morlighem. Previously an undergraduate researcher with Dr. Pablo Saide at UCLA. My primary research interests include math modeling, numerical methods, and machine learning in the cryospheric sciences._
+_Currently a PhD Candidate in the Dept. of Earth and Planetary Sciences at Dartmouth, working with Dr. Mathieu Morlighem. Previously an undergraduate researcher with Dr. Pablo Saide at UCLA. My primary research interests include math modeling, numerical methods, and machine learning in the cryospheric sciences._
 
 [GitHub](https://github.com/mansakrishna23) / [ORCID](https://orcid.org/0009-0002-1350-0680) / [Google Scholar](https://scholar.google.com/citations?user=3Ed8BUcAAAAJ&hl=en&oi=sra) / [Blog](https://mansakrishna23.github.io/)
 
 ## Education
 **Dartmouth College** (September 2022 - Present) <br>
-_**PhD Candidate, Dept. of Earth Sciences, Guarini School of Graduate and Advanced Studies**_ <br>
+_**PhD Candidate, Dept. of Earth and Planetary Sciences, Guarini School of Graduate and Advanced Studies**_ <br>
 _Member of the "Ice-Future" - Research Group, advised by Prof. Mathieu Morlighem._
 > **[Karthaus Summer School](https://www.projects.science.uu.nl/iceclimate/karthaus/index.php): Summer school on ice sheets and glaciers in the climate system** (May 2024) Intensive training on ice dynamics and ice-climate interactions.<br>
 > **Glaciology in Machine Learning Summer School ([GlaMacLeS](https://glamacles.github.io))** (June 2024) Robust training in various artificial intelligience architectures and their applications to glaciology.   
@@ -43,9 +43,9 @@ _Professionally trained in Bharatanatyam for eight years and awarded a diploma_
 English _(Native)_, Hindi _(Fluent)_, Tamil _(Beginner, Spoken only)_
 
 ## Research
-**["Ice Future" - Research Group](https://icefuture.org/), Dept. of Earth Sciences, Dartmouth College** <br>
+**["Ice Future" - Research Group](https://icefuture.org/), Dept. of Earth and Planetary Sciences, Dartmouth College** <br>
 **PhD Candidate** | September 2022 - Present <br>
-> Working with PhD advisor, Dr. Mathieu Morlighem, Dept. of Earth Sciences, Dartmouth College. <br>
+> Working with PhD advisor, Dr. Mathieu Morlighem, Dept. of Earth and Planetary Sciences, Dartmouth College. <br>
 > Developing physics-informed machine learning models to infer subglacial topography using ice sheet surface features.
 > Assessing uncertainty in ice sheet model projections due to the subglacial topography using the Ice-sheet and Sea-level System Model [ISSM](https://github.com/ISSMteam/ISSM).
 
