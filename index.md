@@ -90,7 +90,6 @@ English _(Native)_, Hindi _(Fluent)_, Tamil _(Beginner, Spoken only)_
 **[The Stack](https://stack.dailybruin.com/), Daily Bruin (UCLA Student Media)** <br>
 Stack Developer | October 2020 - June 2022 <br>
 > Building tools, visualisations, and applying quantitative insights to real-world data while digital stories with The Stack, Daily Bruin (UCLA's student-run publication). <br>
-> **Articles**<br>
   * [When to enroll in each class](https://stack.dailybruin.com/2021/02/05/class-fill-ups-2/)
   * [Exploring UCLA’s journey to becoming a Hispanic-Serving Institution](https://stack.dailybruin.com/2021/05/11/student-demographic-hsis/)
   * [Hollywood in Westwood: exploring filmography on the UCLA campus](https://stack.dailybruin.com/2021/06/09/ucla-filming-locations/)
