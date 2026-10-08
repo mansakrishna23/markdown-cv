@@ -69,7 +69,6 @@ English _(Native)_, Hindi _(Fluent)_, Tamil _(Beginner, Spoken only)_
 > Investigated the feasibility of implementing a geothermal system for UCLA's North Campus' heating and cooling needs for the purpose of energy conservation.
 
 ## Publications
-**Research**:<br>
 - Krishna, M., Cheng, G., & Morlighem, M. (2026). Inferring subglacial topography using physics informed machine learning constrained by two conservation laws. The Cryosphere, 20, 3533-3558, [https://doi.org/10.5194/tc-20-3533-2026](https://doi.org/10.5194/tc-20-3533-2026)
 - Tama, B. A., Krishna, M., Alam, H., Cham, M., Faruque, O., Cheng, G., Wang, J., Morlighem, M., & Janeja, V. (2025). DeepTopoNet: A Framework for Subglacial Topography Estimation on the Greenland Ice Sheets. Proceedings of the 33rd ACM International Conference on Advances in Geographic Information Systems (SIGSPATIAL ’25), 943-954, [https://doi.org/10.1145/3748636.3764162](https://doi.org/10.1145/3748636.3764162)
 - Cheng, G., Krishna, M., & Morlighem, M. (2025). A Python Library for solving ice sheet modeling problems using physics-informed neural networks, PINNICLE v1.0. Geoscientific Model Development, 18(16), 5311–5327. [https://doi.org/10.5194/gmd-18-5311-2025](https://doi.org/10.5194/gmd-18-5311-2025)
